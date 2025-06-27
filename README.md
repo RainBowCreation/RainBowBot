@@ -1,1 +1,6 @@
 # RainBowBot
+
+require simple .env with 2 key
+
+DISCORD_TOKEN=YOURDISCORD_TOKEN
+NODE_RED_URL=YOURNODE_RED_URL
