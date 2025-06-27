@@ -124,11 +124,11 @@ and simply ``Deploy``
 
 ## on npm server
 
-``git clone https://github.com/RainBowCreation/RainBowBot.git``
+```git clone https://github.com/RainBowCreation/RainBowBot.git```
 
-``cd RainBowBot``
+```cd RainBowBot```
 
-``npm install -y``
+```npm install -y```
 
 create a simple .env with 2 keys
 ```
@@ -137,14 +137,15 @@ NODE_RED_URL=YOURNODE_RED_URL
 ```
 
 the discord server need 2 category 1 must named.
-``═══════ temp voice ═══════``
+```═══════ temp voice ═══════```
 
-with a channel that set the user limit to ``1`` named `➕ Create Channel`.
+with a channel that set the user limit to ``1`` named ```➕ Create Channel```.
 
-you also need 1 empty category named ``════════ VOICE ════════`` that the new vc will be created to.
+you also need 1 empty category named ```════════ VOICE ════════``` that the new vc will be created to.
 
-to start run ``node ./index.js``
+to start run ```node ./index.js```
 
 ## discord usages
-``!set <key> <value>`` to set value to node-red flow
-``!get <key>`` return value of provided key with http status code
+```!set <key> <value>``` to set value to node-red flow
+
+```!get <key>``` return value of provided key with http status code
