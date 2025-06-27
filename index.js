@@ -4,7 +4,16 @@
 const { Client, GatewayIntentBits, Partials } = require('discord.js');
 require('dotenv').config();
 
-// Import our new get/set functions
+
+const {
+    joinVoiceChannel,
+    createAudioPlayer,
+    createAudioResource,
+    AudioPlayerStatus,
+    getVoiceConnection
+} = require('@discordjs/voice');
+const path = require('path')
+
 const nodeRed = require('./nodeRedClient.js');
 
 const client = new Client({
@@ -68,6 +77,55 @@ client.on('messageCreate', async message => {
             message.reply(`🔍 The value for \`${response.key}\` is: \`${valueStr}\``);
         } else {
             message.reply(`❌ Could not get value. Node-RED said: ${response.message}`);
+        }
+    }
+
+    if (command === 'hello') {
+        // 1. Check if the user is in a voice channel
+        const voiceChannel = message.member.voice.channel;
+        if (!voiceChannel) {
+            return message.reply('You need to be in a voice channel before use this command!');
+        }
+
+        // 2. Check for permissions to join and speak
+        const permissions = voiceChannel.permissionsFor(message.client.user);
+        if (!permissions.has('CONNECT') || !permissions.has('SPEAK')) {
+            return message.reply('I need permissions to join and speak in your voice channel!');
+        }
+
+        try {
+            // 3. Join the voice channel
+            const connection = joinVoiceChannel({
+                channelId: voiceChannel.id,
+                guildId: voiceChannel.guild.id,
+                adapterCreator: voiceChannel.guild.voiceAdapterCreator,
+            });
+
+            // 4. Create an audio player and resource
+            const player = createAudioPlayer();
+            const resource = createAudioResource(path.join(__dirname, 'audio/hello.mp3'));
+
+            // 5. Play the audio
+            player.play(resource);
+            connection.subscribe(player);
+            const freshMember = await voiceChannel.guild.members.fetch(message.member.id);
+            message.reply(`Saying hello to ${freshMember.displayName} at**${voiceChannel.name}**!`);
+
+            // 6. Set up an event listener for when the audio finishes
+            player.on(AudioPlayerStatus.Idle, () => {
+                console.log('Audio has finished playing, disconnecting.');
+                connection.destroy(); // Disconnect from the channel
+            });
+
+            // (Optional) Add an error handler
+            player.on('error', error => {
+                console.error(`Error playing audio: ${error.message}`);
+                connection.destroy(); // Disconnect on error
+            });
+
+        } catch (error) {
+            console.error(error);
+            message.reply('There was an error trying to play the sound!');
         }
     }
 });
