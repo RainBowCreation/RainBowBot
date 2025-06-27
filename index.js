@@ -109,7 +109,7 @@ client.on('messageCreate', async message => {
             player.play(resource);
             connection.subscribe(player);
             const freshMember = await voiceChannel.guild.members.fetch(message.member.id);
-            message.reply(`Saying hello to ${freshMember.displayName} at**${voiceChannel.name}**!`);
+            message.reply(`Saying hello to ${freshMember.displayName} at **${voiceChannel.name}**!`);
 
             // 6. Set up an event listener for when the audio finishes
             player.on(AudioPlayerStatus.Idle, () => {
