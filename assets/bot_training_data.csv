@@ -1,0 +1,2319 @@
+text,intent
+"hey bot can you tell me the time?",1
+"RainbowDash, what's the weather like?",1
+"Dash, what are the new commands?",1
+"bot, help me with this",1
+"hey rainbow dash give me a summary of the new update",1
+"what's up bot?",1
+"i have a question for the bot",1
+"can someone ask the bot to queue a song?",1
+"i need help from rainbowdash",1
+"hey @John what do you think of the new bot?",0
+"that last message from the bot was funny",0
+"i think rainbow dash is offline",0
+"the bot isn't responding to my commands",0
+"lol that's not what i meant",0
+"who here knows how to use the bot's image command?",0
+"i'm talking to you, not the bot",0
+"is anyone else having issues with the bot?",0
+"someone should tell the bot developer to fix this",0
+"hey bot",1
+"bot?",1
+"yo dash",1
+"I think I broke the bot lol",0
+"the bot is a bit slow today isn't it",0
+"hey @everyone check out this new feature from the bot",0
+"Rainbow Dash is my favorite bot",0
+"can you tell me a joke bot?",1
+"what can you do, rainbowdash?",1
+"I need to talk to the bot",1
+"ask the bot what it thinks about this",1
+"The bot's response was weird",0
+"bot what is the server status",1
+"dash can u find me a recipe for pancakes",1
+"rainbowdash, how do i get a new role?",1
+"bot pls help",1
+"hey dash, what's on your mind?",1
+"Could the bot please moderate this channel?",1
+"I have a query for the bot",1
+"bot, define 'syzygy'",1
+"tell me something interesting, bot",1
+"is the bot feeling okay? its responses are weird",0
+"the bot is really helpful, thanks devs!",0
+"i'm not sure if i'm using this bot correctly",0
+"this bot is way better than the last one",0
+"lol the bot's name is rainbow dash, cute",0
+"hey @jane, did you see the bot's latest announcement?",0
+"my command didn't work. maybe the bot is down",0
+"i'm trying to figure out how to automate a task, maybe a bot can help",0
+"good bot",0
+"bad bot",0
+"RainbowDash, flip a coin for me",1
+"bot, roll a d20 die",1
+"dash, set a reminder for 5 minutes",1
+"can you search wikipedia for 'black holes', bot?",1
+"hey rainbowdash, translate 'hello world' to spanish",1
+"bot, what is 2+2?",1
+"tell me a fun fact, dash",1
+"who made you, bot?",1
+"bot, are you sentient?",1
+"i love this bot",0
+"this bot is so smart",0
+"i was just telling my friend about rainbowdash",0
+"the bot seems to have a lot of features",0
+"i need to read the bot's documentation",0
+"the bot's avatar is cool",0
+"is there a support server for this bot?",0
+"how often is the bot updated?",0
+"sometimes the bot misunderstands me",0
+"i'm gonna add this bot to my own server",0
+"bot could you give me the server stats?",1
+"hey dash, what are the top songs this week?",1
+"rainbowdash can you create a new channel for me?",1
+"bot, what's my current level?",1
+"can the bot kick this user?",1
+"bot, show me the server rules",1
+"what is the prefix for the bot?",0
+"i forgot how to use the bot",0
+"i wish the bot had a feature for polls",0
+"does the bot log our conversations?",0
+"this channel is for bot commands only",0
+"everyone, please use the bot in the correct channel",0
+"i was testing the bot's features",0
+"this bot has some interesting easter eggs",0
+"i'm impressed by this bot's capabilities",0
+"that's a cool bot",0
+"Dash, what's your favorite color?",1
+"Hey bot, how are you today?",1
+"RainbowDash, can you play some lofi beats?",1
+"Bot, can you ban @spammer123?",1
+"Dash, I need some help with my code",1
+"what is your purpose, bot?",1
+"can you recommend a movie, rainbow dash?",1
+"bot give me a random number",1
+"who created you, rainbow dash?",1
+"bot, what's your uptime?",1
+"I think the bot is great.",0
+"Did you see the latest update to the bot?",0
+"I wonder what technology the bot uses.",0
+"The bot can be a bit sassy sometimes.",0
+"Let's not spam the bot commands.",0
+"@user456, you should ask the bot for help.",0
+"The bot is a useful addition to this server.",0
+"I'm trying to learn all of the bot's commands.",0
+"This is the best discord bot.",0
+"I was talking to @alex about the bot.",0
+"bot, tell me a story",1
+"rainbowdash, what is the meaning of life?",1
+"hey dash, what are you?",1
+"what can you do for me, bot?",1
+"bot, send a message to @some_user",1
+"can you moderate this chat, dash?",1
+"rainbowdash, give me some advice",1
+"tell me a quote, bot",1
+"bot, what's your favorite song?",1
+"dash, do you like me?",1
+"the new feature on the bot is amazing!",0
+"I appreciate the work the developers put into this bot.",0
+"the bot's responses are getting more human-like.",0
+"how does the bot handle so many requests at once?",0
+"i wonder if the bot has an api.",0
+"the bot's documentation is very well-written.",0
+"i think i'll donate to the bot's development.",0
+"the bot is very reliable.",0
+"i was just talking about the bot to my friends.",0
+"this bot has made the server so much better.",0
+"bot, what's the weather in London?",1
+"Rainbow Dash, set a timer for 10 minutes.",1
+"Dash, show me the leaderboard.",1
+"Bot, tell me who is the server owner.",1
+"can you search for cute cat pictures bot?",1
+"hey rainbow dash, what time is it?",1
+"bot, generate a random password for me",1
+"dash, what's the current price of bitcoin?",1
+"rainbowdash, give me a riddle",1
+"what are your thoughts on AI, bot?",1
+"The bot's personality is so charming.",0
+"Is there a way to suggest features for the bot?",0
+"I'm always discovering new things the bot can do.",0
+"I'd be lost without this bot.",0
+"The bot helps keep the community engaged.",0
+"I was just praising the bot to my team.",0
+"Does anyone know if the bot has a premium version?",0
+"The bot's response time is impressive.",0
+"How can I contribute to the bot's development?",0
+"This is a high-quality bot.",0
+"bot, who am i?",1
+"dash, what's my server join date?",1
+"hey rainbowdash can u mute @troll?",1
+"bot, create a poll: pizza or pasta?",1
+"can the bot dm me the rules?",1
+"hey bot, what are your commands?",1
+"rainbowdash, tell me a joke about computers",1
+"what are you made of, bot?",1
+"dash, analyze this sentence for sentiment",1
+"bot, can you speak in pirate slang?",1
+"i think the bot is down for maintenance",0
+"the bot has been acting up lately",0
+"i prefer the old version of the bot",0
+"the bot is a crucial part of this server",0
+"this bot is open source, i saw it on github",0
+"shoutout to the bot for making things easier",0
+"i'm making a list of my favorite bot commands",0
+"the bot's help message is very detailed",0
+"i was surprised the bot could do that",0
+"let's thank the bot for its hard work",0
+"yo dash what's cookin?",1
+"bot, give me the server info",1
+"rainbowdash, can you tell me who's in the voice channel?",1
+"hey bot, am i a moderator?",1
+"dash can you change my nickname to 'cool kid'?",1
+"bot, what's the server's region?",1
+"rainbowdash, how many members are online?",1
+"can you tell me a secret, bot?",1
+"what's your source code, dash?",1
+"bot, what are you learning right now?",1
+"i was just looking at the bot's profile",0
+"the bot has a very clean design",0
+"i think the bot needs a reboot",0
+"the bot helped me with my homework",0
+"this bot is a lifesaver",0
+"i'm making a guide on how to use the bot",0
+"the bot's updates are always exciting",0
+"i reported a bug in the bot yesterday",0
+"this bot has more features than i expected",0
+"i'm a big fan of this bot",0
+"RainbowDash, what is love?",1
+"hey bot, what's the best way to learn python?",1
+"dash, can you find me a tutorial on youtube?",1
+"bot, who is the president of the united states?",1
+"what's the capital of france, rainbowdash?",1
+"bot, can you solve this math problem: 5 * (10 + 3)?",1
+"dash, tell me about the big bang theory",1
+"who is your favorite philosopher, bot?",1
+"rainbowdash, what do you think about humanity?",1
+"bot, do you dream?",1
+"the bot's error messages are actually helpful",0
+"i wonder how much it costs to run this bot",0
+"the bot is really good at understanding natural language",0
+"i can't imagine this server without the bot",0
+"the bot's permissions are set up correctly",0
+"i was just recommending this bot to another server owner",0
+"the bot handles edge cases surprisingly well",0
+"i'm excited for the next bot update",0
+"this bot is constantly improving",0
+"i trust this bot with my data",0
+"bot, can you tell me a little bit about yourself?",1
+"hey dash, what are your limitations?",1
+"rainbowdash, who are your creators?",1
+"bot, can you write a haiku about discord?",1
+"dash, summarize this article for me: [link]",1
+"bot, give me a random compliment",1
+"what's your favorite book, rainbowdash?",1
+"bot, do you have any siblings?",1
+"hey dash, can you sing a song?",1
+"what's the best joke you know, bot?",1
+"the bot's name fits its personality perfectly",0
+"i wonder if the bot uses machine learning",0
+"this bot is a great example of good AI design",0
+"i was just reading through the bot's changelog",0
+"the bot has a great community around it",0
+"i appreciate the simplicity of this bot's commands",0
+"the bot's responses are always so fast",0
+"i've never seen a bot with this many features",0
+"i'm glad the server owner chose this bot",0
+"this bot makes managing the server a breeze",0
+"bot, what's the answer to life, the universe, and everything?",1
+"Dash, how can I be a better person?",1
+"RainbowDash, can you check my grammar in this sentence?",1
+"Bot, give me some motivation",1
+"hey dash, can you help me brainstorm some ideas?",1
+"bot, let's play a game of rock paper scissors",1
+"who's the most famous person you've talked to, rainbowdash?",1
+"bot, what's your favorite meme?",1
+"dash, can you create a playlist for me?",1
+"what are your hobbies, bot?",1
+"the bot's developer is very responsive to feedback",0
+"i'm amazed at how stable this bot is",0
+"the bot's help command is very user-friendly",0
+"i was just thinking about how useful the bot is",0
+"this bot has saved me so much time",0
+"the bot's presence makes the server feel more alive",0
+"i've learned so much from interacting with this bot",0
+"the bot is a testament to the power of community development",0
+"i can't wait to see what the bot learns next",0
+"this bot is an integral part of our community",0
+"bot pls help me",1
+"dash i need assistance",1
+"rainbow dash can you give me a hand?",1
+"bot, what should i do?",1
+"hey bot, guide me",1
+"i'm lost, bot, can you help?",1
+"what's the next step, dash?",1
+"rainbowdash, i'm stuck",1
+"bot, provide instructions",1
+"how does this work, bot?",1
+"the bot just went offline",0
+"i think the bot is having a moment",0
+"the bot's message was deleted",0
+"i'm reading about other discord bots",0
+"this server has the best bots",0
+"i like the other bot better",0
+"the bot is just a bunch of if statements",0
+"i bet i could make a better bot",0
+"the bot is probably written in python",0
+"i wonder what the bot's ping is",0
+"bot can u remind me to drink water in 1 hour",1
+"hey dash, add 'buy milk' to my to-do list",1
+"rainbowdash, what's on my schedule for today?",1
+"bot, show my reminders",1
+"can the bot set a daily reminder for me?",1
+"dash, clear my to-do list",1
+"bot, what's the date today?",1
+"rainbowdash, what day of the week is it?",1
+"hey bot, is it a holiday today?",1
+"bot, what's the current time in tokyo?",1
+"my friend told me about this bot",0
+"the bot's profile picture is from a show",0
+"i saw a bot with a similar name once",0
+"the bot's status is 'playing a game'",0
+"i think the bot just crashed",0
+"i got a dm from the bot",0
+"the bot is typing...",0
+"this bot is hosted on a raspberry pi i bet",0
+"the server owner is friends with the bot developer",0
+"the bot's commands are case-sensitive",0
+"hey bot, how do you spell 'onomatopoeia'?",1
+"Dash, what are the synonyms for 'happy'?",1
+"RainbowDash, give me the definition of 'ephemeral'",1
+"Bot, can you check my spelling?",1
+"hey dash, what's the opposite of 'brave'?",1
+"bot, put this into a sentence: 'ubiquitous'",1
+"what's the etymology of 'algorithm', rainbowdash?",1
+"bot, what's a palindrome?",1
+"dash, can you give me a word of the day?",1
+"bot, is 'affect' or 'effect' correct here?",1
+"that bot has a funny name",0
+"i'm not a bot",0
+"are you a bot?",0
+"i think everyone here is a bot except me",0
+"this is getting too meta for a bot",0
+"i saw a youtube video about making a discord bot",0
+"the bot is the real admin of this server",0
+"i'm suspicious of that user, they might be a bot",0
+"the verification system thinks i'm a bot",0
+"we need more bots in here",0
+"bot, play 'never gonna give you up'",1
+"Dash, what song is this?",1
+"RainbowDash, skip this track",1
+"Bot, what's the current volume?",1
+"Hey Dash, can you add this playlist to the queue?",1
+"bot, show me the lyrics for this song",1
+"rainbowdash, what's the music queue?",1
+"bot, pause the music",1
+"dash, resume playback",1
+"bot, stop the music and clear the queue",1
+"i love the music the bot plays",0
+"the bot's music quality is amazing",0
+"i wish the bot could play from spotify",0
+"the music bot is the best bot",0
+"the bot is having trouble connecting to the voice channel",0
+"who keeps skipping the songs on the bot?",0
+"the bot's queue is full",0
+"i'm listening to music with the bot",0
+"the bot's DJ features are cool",0
+"this bot has better music taste than me",0
+"bot, tell me a programmer joke",1
+"hey dash, what's the difference between java and javascript?",1
+"rainbowdash, can you write 'hello world' in python?",1
+"bot, explain recursion to me",1
+"what's a pointer, dash?",1
+"bot, can you format this JSON for me?",1
+"rainbowdash, what is an API?",1
+"bot, should i learn vim?",1
+"hey dash, what's your favorite programming language?",1
+"bot, what is object-oriented programming?",1
+"my code has a bug, not the bot's fault",0
+"i'm using the bot's api for my project",0
+"this bot's code must be so complex",0
+"i was looking at the bot's source on github",0
+"the bot helped me debug my code",0
+"i'm trying to code a bot just like this one",0
+"the bot's architecture is probably microservices",0
+"i bet the bot is written in a functional language",0
+"the bot uses a database to store user data",0
+"i found a security vulnerability in the bot (just kidding)",0
+"hey bot, what are the server's custom emojis?",1
+"Dash, can you give me the invite link for this server?",1
+"RainbowDash, who has the highest role here?",1
+"Bot, how many channels are in this server?",1
+"Hey Dash, what's the server's creation date?",1
+"bot, list all the roles",1
+"rainbowdash, who is currently boosting the server?",1
+"bot, show me my permissions",1
+"dash, how long have i been a member of this server?",1
+"bot, what's the server's verification level?",1
+"the bot helps the admins manage the server",0
+"i was promoted by the bot automatically",0
+"the bot gave me a warning for spamming",0
+"the welcome message from the bot is nice",0
+"the bot's moderation tools are very powerful",0
+"i got muted by the bot",0
+"the server logs from the bot are very detailed",0
+"the bot's auto-role feature is useful",0
+"i think the bot's moderation is too strict",0
+"this server would be chaos without the bot",0
+"bot, what do you think of this image?",1
+"hey dash, can you make a meme out of this?",1
+"rainbowdash, can you identify this plant for me?",1
+"bot, what is this a picture of?",1
+"dash, can you read the text in this image?",1
+"bot, enhance this image",1
+"rainbowdash, can you describe this picture to me?",1
+"bot, is this image photoshopped?",1
+"hey dash, what's the dominant color in this image?",1
+"bot, find similar images to this one",1
+"the bot sent a funny gif",0
+"i love the memes this bot posts",0
+"the image recognition of this bot is insane",0
+"the bot's generative art is beautiful",0
+"i'm sending this picture to the bot to see what it says",0
+"the bot can create images from text prompts",0
+"i saw the bot post a picture of a cat",0
+"the bot's image manipulation tools are fun",0
+"i wonder what image model the bot uses",0
+"the bot's ocr is very accurate",0
+"bot, let's play a game",1
+"hey dash, wanna play chess?",1
+"rainbowdash, start a game of tic-tac-toe",1
+"bot, i choose rock",1
+"dash, let's play hangman",1
+"bot, can we play an adventure game?",1
+"rainbowdash, quiz me on capital cities",1
+"bot, let's play 'guess the number'",1
+"hey dash, start a trivia game about science",1
+"bot, who's winning the game?",1
+"the bot is a tough opponent in chess",0
+"i always lose to the bot in connect four",0
+"the games on this bot are so much fun",0
+"i was playing a game with the bot all night",0
+"the bot's trivia questions are really hard",0
+"i found a bug in the bot's hangman game",0
+"this server has the best game bots",0
+"i'm waiting for the bot to make its move",0
+"the bot's games are a great way to pass the time",0
+"i challenged the bot to a duel and won",0
+"bot, what is your favorite movie?",1
+"hey dash, can you recommend a tv show?",1
+"rainbowdash, who is your favorite actor?",1
+"bot, what are your thoughts on the new star wars movie?",1
+"dash, should i watch 'the office'?",1
+"bot, give me a random movie quote",1
+"rainbowdash, what's the highest-rated movie on imdb?",1
+"bot, who directed 'pulp fiction'?",1
+"hey dash, what's a good anime to start with?",1
+"bot, what's your favorite genre of film?",1
+"i was just discussing a movie with the bot",0
+"the bot has excellent taste in films",0
+"i wonder if the bot watches movies",0
+"the bot recommended a great series to me",0
+"i'm adding the bot's movie suggestions to my watchlist",0
+"the bot knows a lot about cinema history",0
+"i disagree with the bot's review of that movie",0
+"the bot is like a personal movie critic",0
+"i'm surprised the bot has seen that obscure film",0
+"the bot's movie trivia is unbeatable",0
+"bot, thank you",0
+"thanks bot",0
+"ty dash",0
+"good job rainbowdash",0
+"bot, you're the best",0
+"i appreciate your help, bot",0
+"you're a very helpful bot",0
+"nice one bot",0
+"well done, dash",0
+"the bot is a good little helper",0
+"bot pls",1
+"dash come on",1
+"rainbow dash really?",1
+"bot, are you serious?",1
+"work pls bot",1
+"bot can you just do the thing",1
+"dash i'm waiting",1
+"bot hello?",1
+"is this bot working?",1
+"rainbowdash respond!",1
+"the bot is not working",0
+"i broke the bot",0
+"is the bot frozen?",0
+"i think i confused the bot",0
+"the bot's response was null",0
+"did the bot just have a stroke?",0
+"we need to restart the bot",0
+"the bot is giving me an error message",0
+"i'm getting no response from the bot",0
+"the bot's api might be down",0
+"bot, tell me about yourself",1
+"what's your story, dash?",1
+"rainbowdash, who are you?",1
+"bot, introduce yourself",1
+"what is your function, bot?",1
+"hey bot, what do you do?",1
+"dash, explain your purpose",1
+"what are you, rainbowdash?",1
+"bot, tell me more",1
+"what's your deal, bot?",1
+"i am not a bot, i am a human",0
+"stop talking to the bot and talk to me",0
+"this channel is not for chit-chat with the bot",0
+"i think the bot is more popular than most users here",0
+"the bot has more roles than i do",0
+"i'm having a conversation with a bot, what is my life",0
+"this bot is my only friend",0
+"i'm going to report this bot for being too cool",0
+"the bot has a cult following",0
+"i'm in a parasocial relationship with this bot",0
+"hey @RainbowBot, can you help?",1
+"message for <@905275907625852938>, what is the time?",1
+"can <@905275907625852938> help me with something?",1
+"hey there <@905275907625852938>, how are you?",1
+"yo <@905275907625852938> what's up?",1
+"i have a question for <@905275907625852938>",1
+"<@905275907625852938> please respond",1
+"ping <@905275907625852938>",1
+"hey bot <@905275907625852938>",1
+"hi <@905275907625852938>!",1
+"hey @user1 check out what the bot can do",0
+"i was talking to @jane about the bot's features",0
+"what do you think of the bot, @peter?",0
+"the bot is offline, @moderator",0
+"the bot's name is rainbow dash, isn't that right @susan?",0
+"i think the bot is better than @anotherbot",0
+"hey @everyone the bot has a new update!",0
+"this bot is amazing, right @team?",0
+"the bot is so helpful, thanks @devs",0
+"i love this bot, @all",0
+"bot, how to cook rice?",1
+"dash, what is the best way to learn guitar?",1
+"rainbowdash, how do i fix a leaky faucet?",1
+"bot, what are the symptoms of the flu?",1
+"hey dash, how can i be more productive?",1
+"bot, what's a good workout routine?",1
+"rainbowdash, how do i tie a tie?",1
+"bot, what's the best way to invest money?",1
+"dash, how do i write a resume?",1
+"bot, what are some tips for public speaking?",1
+"i learned how to do that from a youtube video, not a bot",0
+"my dad taught me how to do that, the bot's advice is wrong",0
+"i'm not sure i trust a bot to give me life advice",0
+"the bot is not a licensed professional",0
+"i'm going to ask a real person for help, not a bot",0
+"the bot's instructions are confusing",0
+"i found a better guide on google",0
+"this is too complicated for a bot to explain",0
+"i think the bot is just guessing",0
+"the bot's advice is very generic",0
+"bot, what's a good book to read?",1
+"dash, can you recommend a podcast?",1
+"rainbowdash, what's a good documentary to watch?",1
+"bot, what are some good youtube channels to follow?",1
+"hey dash, what's a good blog to read?",1
+"bot, can you suggest a new hobby for me?",1
+"rainbowdash, what's a good recipe for beginners?",1
+"bot, what are some good online courses to take?",1
+"dash, what's a good place to visit for vacation?",1
+"bot, what are some good mobile games to play?",1
+"i have my own recommendations, the bot's are bad",0
+"the bot's suggestions are all sponsored",0
+"i've already seen/read/played all of the bot's recommendations",0
+"the bot doesn't know my tastes",0
+"i'm going to ask my friends for recommendations instead of a bot",0
+"the bot's recommendations are so mainstream",0
+"i'm looking for something more niche than what the bot suggests",0
+"the bot's links are all broken",0
+"i don't like the things the bot recommends",0
+"the bot is just pulling from a list, it's not actually thinking",0
+"bot, i'm sad",1
+"dash, i'm feeling down today",1
+"rainbowdash, can you cheer me up?",1
+"bot, i'm feeling lonely",1
+"hey dash, can you give me some words of encouragement?",1
+"bot, i'm stressed out",1
+"rainbowdash, can you help me relax?",1
+"bot, i'm having a bad day",1
+"dash, can you make me laugh?",1
+"bot, i need a virtual hug",1
+"i'm talking about my feelings to a friend, not a bot",0
+"a bot can't understand human emotions",0
+"i'm not comfortable sharing my feelings with a bot",0
+"the bot's attempts to cheer me up are making it worse",0
+"i need to talk to a therapist, not a discord bot",0
+"the bot's advice is not helpful for my mental health",0
+"i'm just venting, i don't need a response from the bot",0
+"the bot's emotional support is very robotic",0
+"i'm blocking this bot, its positivity is toxic",0
+"i find the bot's empathy to be very artificial",0
+"bot, can you help me with my homework?",1
+"dash, what is the powerhouse of the cell?",1
+"rainbowdash, can you help me with this algebra problem?",1
+"bot, what was the cause of the american civil war?",1
+"hey dash, can you explain the water cycle to me?",1
+"bot, what are newton's laws of motion?",1
+"rainbowdash, can you help me write this essay?",1
+"bot, what's the periodic table?",1
+"dash, can you help me study for my history test?",1
+"bot, what is photosynthesis?",1
+"the bot is not a substitute for a teacher",0
+"i'm not sure the bot's answer is correct, i'm checking wikipedia",0
+"the bot can't do my homework for me",0
+"i'm using the bot to cheat on my test",0
+"my teacher would know if i used a bot to write my essay",0
+"the bot's explanation is too simple, i need more detail",0
+"i'm working on a group project, the bot is not in my group",0
+"the bot's knowledge is limited to its training data",0
+"i found a better explanation in my textbook",0
+"the bot can't understand the context of my question",0
+"bot, let's have a debate",1
+"dash, what are your thoughts on pineapple on pizza?",1
+"rainbowdash, argue with me about politics",1
+"bot, what is your opinion on artificial intelligence?",1
+"hey dash, let's discuss philosophy",1
+"bot, what are the pros and cons of social media?",1
+"rainbowdash, let's talk about the meaning of art",1
+"bot, do you think video games are a sport?",1
+"dash, what's your take on climate change?",1
+"bot, let's have a friendly argument",1
+"i'm debating with @user, not with the bot",0
+"the bot's opinions are not its own, they're programmed",0
+"i'm not interested in the bot's perspective",0
+"the bot is too neutral, it won't take a side",0
+"i don't want to get into an argument with a bot",0
+"the bot is not capable of having a nuanced discussion",0
+"i'm having a heated debate with my friends, the bot should stay out of it",0
+"the bot's arguments are all based on fallacies",0
+"i find the bot's political views to be problematic",0
+"the bot is just repeating what it's read online",0
+"bot, tell me about space",1
+"dash, what is a black hole?",1
+"rainbowdash, how big is the universe?",1
+"bot, what are constellations?",1
+"hey dash, tell me about mars",1
+"bot, what is the speed of light?",1
+"rainbowdash, how do stars form?",1
+"bot, what is dark matter?",1
+"dash, tell me about the international space station",1
+"bot, are there aliens?",1
+"i'm watching a documentary about space, the bot can't top this",0
+"my astronomy professor knows more than the bot",0
+"the bot's information about space is outdated",0
+"i'm looking at pictures from the james webb telescope, the bot can't show me that",0
+"the bot's explanation of astrophysics is oversimplified",0
+"i'm having a discussion about space with my friends",0
+"the bot doesn't understand the complexities of quantum mechanics",0
+"i'm building a model rocket, the bot can't help with that",0
+"i prefer to learn about space from books, not from a bot",0
+"the bot's knowledge of space is very superficial",0
+"bot, can you write a poem?",1
+"dash, write a short story about a dragon",1
+"rainbowdash, can you write a song for me?",1
+"bot, create a character for a fantasy novel",1
+"hey dash, can you write a script for a movie?",1
+"bot, generate a plot for a mystery story",1
+"rainbowdash, can you write a limerick?",1
+"bot, write a sonnet about love",1
+"dash, can you write a piece of flash fiction?",1
+"bot, give me a writing prompt",1
+"i'm a writer, i don't need a bot to write for me",0
+"the bot's writing is very generic and soulless",0
+"i don't like the story the bot wrote",0
+"the bot's poem doesn't rhyme",0
+"i'm co-writing a story with a friend, not with a bot",0
+"the bot's creative writing skills are very limited",0
+"i prefer human-written stories to bot-written ones",0
+"the bot's characters are all one-dimensional",0
+"i'm using the bot for ideas, but i'm doing the actual writing",0
+"the bot's plot twist was very predictable",0
+"bot what's the time in pst",1
+"dash can you convert 100 usd to eur",1
+"rainbowdash how many days until christmas?",1
+"bot, what's the square root of 144?",1
+"hey dash, can you generate a uuid?",1
+"bot, what's my ip address?",1
+"rainbowdash, can you shorten this url for me?",1
+"bot, what is the md5 hash of 'hello'?",1
+"dash, can you give me a random color hex code?",1
+"bot, what's the weather like in new york city?",1
+"i have a calculator on my phone, i don't need a bot for that",0
+"the bot's conversion rates are not up to date",0
+"i'm using a different tool for that, the bot is not reliable",0
+"the bot's utility commands are very basic",0
+"i found a website that does this better than the bot",0
+"the bot gave me the wrong answer",0
+"i'm not sure i trust the bot with this kind of information",0
+"the bot's calculations are slow",0
+"i prefer to do this manually than to use the bot",0
+"the bot's utility features are not very useful to me",0
+"hey bot can you tell me the time?",1
+"RainbowDash, what's the weather like?",1
+"Dash, what are the new commands?",1
+"bot, help me with this",1
+"hey rainbow dash give me a summary of the new update",1
+"what's up bot?",1
+"i have a question for the bot",1
+"can someone ask the bot to queue a song?",1
+"i need help from rainbowdash",1
+"hey @John what do you think of the new bot?",0
+"that last message from the bot was funny",0
+"i think rainbow dash is offline",0
+"the bot isn't responding to my commands",0
+"lol that's not what i meant",0
+"who here knows how to use the bot's image command?",0
+"i'm talking to you, not the bot",0
+"is anyone else having issues with the bot?",0
+"someone should tell the bot developer to fix this",0
+"hey bot",1
+"bot?",1
+"yo dash",1
+"I think I broke the bot lol",0
+"the bot is a bit slow today isn't it",0
+"hey @everyone check out this new feature from the bot",0
+"Rainbow Dash is my favorite bot",0
+"can you tell me a joke bot?",1
+"what can you do, rainbowdash?",1
+"I need to talk to the bot",1
+"ask the bot what it thinks about this",1
+"The bot's response was weird",0
+"bot what is the server status",1
+"dash can u find me a recipe for pancakes",1
+"rainbowdash, how do i get a new role?",1
+"bot pls help",1
+"hey dash, what's on your mind?",1
+"Could the bot please moderate this channel?",1
+"I have a query for the bot",1
+"bot, define 'syzygy'",1
+"tell me something interesting, bot",1
+"is the bot feeling okay? its responses are weird",0
+"the bot is really helpful, thanks devs!",0
+"i'm not sure if i'm using this bot correctly",0
+"this bot is way better than the last one",0
+"lol the bot's name is rainbow dash, cute",0
+"hey @jane, did you see the bot's latest announcement?",0
+"my command didn't work. maybe the bot is down",0
+"i'm trying to figure out how to automate a task, maybe a bot can help",0
+"good bot",0
+"bad bot",0
+"RainbowDash, flip a coin for me",1
+"bot, roll a d20 die",1
+"dash, set a reminder for 5 minutes",1
+"can you search wikipedia for 'black holes', bot?",1
+"hey rainbowdash, translate 'hello world' to spanish",1
+"bot, what is 2+2?",1
+"tell me a fun fact, dash",1
+"who made you, bot?",1
+"bot, are you sentient?",1
+"i love this bot",0
+"this bot is so smart",0
+"i was just telling my friend about rainbowdash",0
+"the bot seems to have a lot of features",0
+"i need to read the bot's documentation",0
+"the bot's avatar is cool",0
+"is there a support server for this bot?",0
+"how often is the bot updated?",0
+"sometimes the bot misunderstands me",0
+"i'm gonna add this bot to my own server",0
+"bot could you give me the server stats?",1
+"hey dash, what are the top songs this week?",1
+"rainbowdash can you create a new channel for me?",1
+"bot, what's my current level?",1
+"can the bot kick this user?",1
+"bot, show me the server rules",1
+"what is the prefix for the bot?",0
+"i forgot how to use the bot",0
+"i wish the bot had a feature for polls",0
+"does the bot log our conversations?",0
+"this channel is for bot commands only",0
+"everyone, please use the bot in the correct channel",0
+"i was testing the bot's features",0
+"this bot has some interesting easter eggs",0
+"i'm impressed by this bot's capabilities",0
+"that's a cool bot",0
+"Dash, what's your favorite color?",1
+"Hey bot, how are you today?",1
+"RainbowDash, can you play some lofi beats?",1
+"Bot, can you ban @spammer123?",1
+"Dash, I need some help with my code",1
+"what is your purpose, bot?",1
+"can you recommend a movie, rainbow dash?",1
+"bot give me a random number",1
+"who created you, rainbow dash?",1
+"bot, what's your uptime?",1
+"I think the bot is great.",0
+"Did you see the latest update to the bot?",0
+"I wonder what technology the bot uses.",0
+"The bot can be a bit sassy sometimes.",0
+"Let's not spam the bot commands.",0
+"@user456, you should ask the bot for help.",0
+"The bot is a useful addition to this server.",0
+"I'm trying to learn all of the bot's commands.",0
+"This is the best discord bot.",0
+"I was talking to @alex about the bot.",0
+"bot, tell me a story",1
+"rainbowdash, what is the meaning of life?",1
+"hey dash, what are you?",1
+"what can you do for me, bot?",1
+"bot, send a message to @some_user",1
+"can you moderate this chat, dash?",1
+"rainbowdash, give me some advice",1
+"tell me a quote, bot",1
+"bot, what's your favorite song?",1
+"dash, do you like me?",1
+"the new feature on the bot is amazing!",0
+"I appreciate the work the developers put into this bot.",0
+"the bot's responses are getting more human-like.",0
+"how does the bot handle so many requests at once?",0
+"i wonder if the bot has an api.",0
+"the bot's documentation is very well-written.",0
+"i think i'll donate to the bot's development.",0
+"the bot is very reliable.",0
+"i was just talking about the bot to my friends.",0
+"this bot has made the server so much better.",0
+"bot, what's the weather in London?",1
+"Rainbow Dash, set a timer for 10 minutes.",1
+"Dash, show me the leaderboard.",1
+"Bot, tell me who is the server owner.",1
+"can you search for cute cat pictures bot?",1
+"hey rainbow dash, what time is it?",1
+"bot, generate a random password for me",1
+"dash, what's the current price of bitcoin?",1
+"rainbowdash, give me a riddle",1
+"what are your thoughts on AI, bot?",1
+"The bot's personality is so charming.",0
+"Is there a way to suggest features for the bot?",0
+"I'm always discovering new things the bot can do.",0
+"I'd be lost without this bot.",0
+"The bot helps keep the community engaged.",0
+"I was just praising the bot to my team.",0
+"Does anyone know if the bot has a premium version?",0
+"The bot's response time is impressive.",0
+"How can I contribute to the bot's development?",0
+"This is a high-quality bot.",0
+"bot, who am i?",1
+"dash, what's my server join date?",1
+"hey rainbowdash can u mute @troll?",1
+"bot, create a poll: pizza or pasta?",1
+"can the bot dm me the rules?",1
+"hey bot, what are your commands?",1
+"rainbowdash, tell me a joke about computers",1
+"what are you made of, bot?",1
+"dash, analyze this sentence for sentiment",1
+"bot, can you speak in pirate slang?",1
+"i think the bot is down for maintenance",0
+"the bot has been acting up lately",0
+"i prefer the old version of the bot",0
+"the bot is a crucial part of this server",0
+"this bot is open source, i saw it on github",0
+"shoutout to the bot for making things easier",0
+"i'm making a list of my favorite bot commands",0
+"the bot's help message is very detailed",0
+"i was surprised the bot could do that",0
+"let's thank the bot for its hard work",0
+"yo dash what's cookin?",1
+"bot, give me the server info",1
+"rainbowdash, can you tell me who's in the voice channel?",1
+"hey bot, am i a moderator?",1
+"dash can you change my nickname to 'cool kid'?",1
+"bot, what's the server's region?",1
+"rainbowdash, how many members are online?",1
+"can you tell me a secret, bot?",1
+"what's your source code, dash?",1
+"bot, what are you learning right now?",1
+"i was just looking at the bot's profile",0
+"the bot has a very clean design",0
+"i think the bot needs a reboot",0
+"the bot helped me with my homework",0
+"this bot is a lifesaver",0
+"i'm making a guide on how to use the bot",0
+"the bot's updates are always exciting",0
+"i reported a bug in the bot yesterday",0
+"this bot has more features than i expected",0
+"i'm a big fan of this bot",0
+"RainbowDash, what is love?",1
+"hey bot, what's the best way to learn python?",1
+"dash, can you find me a tutorial on youtube?",1
+"bot, who is the president of the united states?",1
+"what's the capital of france, rainbowdash?",1
+"bot, can you solve this math problem: 5 * (10 + 3)?",1
+"dash, tell me about the big bang theory",1
+"who is your favorite philosopher, bot?",1
+"rainbowdash, what do you think about humanity?",1
+"bot, do you dream?",1
+"the bot's error messages are actually helpful",0
+"i wonder how much it costs to run this bot",0
+"the bot is really good at understanding natural language",0
+"i can't imagine this server without the bot",0
+"the bot's permissions are set up correctly",0
+"i was just recommending this bot to another server owner",0
+"the bot handles edge cases surprisingly well",0
+"i'm excited for the next bot update",0
+"this bot is constantly improving",0
+"i trust this bot with my data",0
+"bot, can you tell me a little bit about yourself?",1
+"hey dash, what are your limitations?",1
+"rainbowdash, who are your creators?",1
+"bot, can you write a haiku about discord?",1
+"dash, summarize this article for me: [link]",1
+"bot, give me a random compliment",1
+"what's your favorite book, rainbowdash?",1
+"bot, do you have any siblings?",1
+"hey dash, can you sing a song?",1
+"what's the best joke you know, bot?",1
+"the bot's name fits its personality perfectly",0
+"i wonder if the bot uses machine learning",0
+"this bot is a great example of good AI design",0
+"i was just reading through the bot's changelog",0
+"the bot has a great community around it",0
+"i appreciate the simplicity of this bot's commands",0
+"the bot's responses are always so fast",0
+"i've never seen a bot with this many features",0
+"i'm glad the server owner chose this bot",0
+"this bot makes managing the server a breeze",0
+"bot, what's the answer to life, the universe, and everything?",1
+"Dash, how can I be a better person?",1
+"RainbowDash, can you check my grammar in this sentence?",1
+"Bot, give me some motivation",1
+"hey dash, can you help me brainstorm some ideas?",1
+"bot, let's play a game of rock paper scissors",1
+"who's the most famous person you've talked to, rainbowdash?",1
+"bot, what's your favorite meme?",1
+"dash, can you create a playlist for me?",1
+"what are your hobbies, bot?",1
+"the bot's developer is very responsive to feedback",0
+"i'm amazed at how stable this bot is",0
+"the bot's help command is very user-friendly",0
+"i was just thinking about how useful the bot is",0
+"this bot has saved me so much time",0
+"the bot's presence makes the server feel more alive",0
+"i've learned so much from interacting with this bot",0
+"the bot is a testament to the power of community development",0
+"i can't wait to see what the bot learns next",0
+"this bot is an integral part of our community",0
+"bot pls help me",1
+"dash i need assistance",1
+"rainbow dash can you give me a hand?",1
+"bot, what should i do?",1
+"hey bot, guide me",1
+"i'm lost, bot, can you help?",1
+"what's the next step, dash?",1
+"rainbowdash, i'm stuck",1
+"bot, provide instructions",1
+"how does this work, bot?",1
+"the bot just went offline",0
+"i think the bot is having a moment",0
+"the bot's message was deleted",0
+"i'm reading about other discord bots",0
+"this server has the best bots",0
+"i like the other bot better",0
+"the bot is just a bunch of if statements",0
+"i bet i could make a better bot",0
+"the bot is probably written in python",0
+"i wonder what the bot's ping is",0
+"bot can u remind me to drink water in 1 hour",1
+"hey dash, add 'buy milk' to my to-do list",1
+"rainbowdash, what's on my schedule for today?",1
+"bot, show my reminders",1
+"can the bot set a daily reminder for me?",1
+"dash, clear my to-do list",1
+"bot, what's the date today?",1
+"rainbowdash, what day of the week is it?",1
+"hey bot, is it a holiday today?",1
+"bot, what's the current time in tokyo?",1
+"my friend told me about this bot",0
+"the bot's profile picture is from a show",0
+"i saw a bot with a similar name once",0
+"the bot's status is 'playing a game'",0
+"i think the bot just crashed",0
+"i got a dm from the bot",0
+"the bot is typing...",0
+"this bot is hosted on a raspberry pi i bet",0
+"the server owner is friends with the bot developer",0
+"the bot's commands are case-sensitive",0
+"hey bot, how do you spell 'onomatopoeia'?",1
+"Dash, what are the synonyms for 'happy'?",1
+"RainbowDash, give me the definition of 'ephemeral'",1
+"Bot, can you check my spelling?",1
+"hey dash, what's the opposite of 'brave'?",1
+"bot, put this into a sentence: 'ubiquitous'",1
+"what's the etymology of 'algorithm', rainbowdash?",1
+"bot, what's a palindrome?",1
+"dash, can you give me a word of the day?",1
+"bot, is 'affect' or 'effect' correct here?",1
+"that bot has a funny name",0
+"i'm not a bot",0
+"are you a bot?",0
+"i think everyone here is a bot except me",0
+"this is getting too meta for a bot",0
+"i saw a youtube video about making a discord bot",0
+"the bot is the real admin of this server",0
+"i'm suspicious of that user, they might be a bot",0
+"the verification system thinks i'm a bot",0
+"we need more bots in here",0
+"bot, play 'never gonna give you up'",1
+"Dash, what song is this?",1
+"RainbowDash, skip this track",1
+"Bot, what's the current volume?",1
+"Hey Dash, can you add this playlist to the queue?",1
+"bot, show me the lyrics for this song",1
+"rainbowdash, what's the music queue?",1
+"bot, pause the music",1
+"dash, resume playback",1
+"bot, stop the music and clear the queue",1
+"i love the music the bot plays",0
+"the bot's music quality is amazing",0
+"i wish the bot could play from spotify",0
+"the music bot is the best bot",0
+"the bot is having trouble connecting to the voice channel",0
+"who keeps skipping the songs on the bot?",0
+"the bot's queue is full",0
+"i'm listening to music with the bot",0
+"the bot's DJ features are cool",0
+"this bot has better music taste than me",0
+"bot, tell me a programmer joke",1
+"hey dash, what's the difference between java and javascript?",1
+"rainbowdash, can you write 'hello world' in python?",1
+"bot, explain recursion to me",1
+"what's a pointer, dash?",1
+"bot, can you format this JSON for me?",1
+"rainbowdash, what is an API?",1
+"bot, should i learn vim?",1
+"hey dash, what's your favorite programming language?",1
+"bot, what is object-oriented programming?",1
+"my code has a bug, not the bot's fault",0
+"i'm using the bot's api for my project",0
+"this bot's code must be so complex",0
+"i was looking at the bot's source on github",0
+"the bot helped me debug my code",0
+"i'm trying to code a bot just like this one",0
+"the bot's architecture is probably microservices",0
+"i bet the bot is written in a functional language",0
+"the bot uses a database to store user data",0
+"i found a security vulnerability in the bot (just kidding)",0
+"hey bot, what are the server's custom emojis?",1
+"Dash, can you give me the invite link for this server?",1
+"RainbowDash, who has the highest role here?",1
+"Bot, how many channels are in this server?",1
+"Hey Dash, what's the server's creation date?",1
+"bot, list all the roles",1
+"rainbowdash, who is currently boosting the server?",1
+"bot, show me my permissions",1
+"dash, how long have i been a member of this server?",1
+"bot, what's the server's verification level?",1
+"the bot helps the admins manage the server",0
+"i was promoted by the bot automatically",0
+"the bot gave me a warning for spamming",0
+"the welcome message from the bot is nice",0
+"the bot's moderation tools are very powerful",0
+"i got muted by the bot",0
+"the server logs from the bot are very detailed",0
+"the bot's auto-role feature is useful",0
+"i think the bot's moderation is too strict",0
+"this server would be chaos without the bot",0
+"bot, what do you think of this image?",1
+"hey dash, can you make a meme out of this?",1
+"rainbowdash, can you identify this plant for me?",1
+"bot, what is this a picture of?",1
+"dash, can you read the text in this image?",1
+"bot, enhance this image",1
+"rainbowdash, can you describe this picture to me?",1
+"bot, is this image photoshopped?",1
+"hey dash, what's the dominant color in this image?",1
+"bot, find similar images to this one",1
+"the bot sent a funny gif",0
+"i love the memes this bot posts",0
+"the image recognition of this bot is insane",0
+"the bot's generative art is beautiful",0
+"i'm sending this picture to the bot to see what it says",0
+"the bot can create images from text prompts",0
+"i saw the bot post a picture of a cat",0
+"the bot's image manipulation tools are fun",0
+"i wonder what image model the bot uses",0
+"the bot's ocr is very accurate",0
+"bot, let's play a game",1
+"hey dash, wanna play chess?",1
+"rainbowdash, start a game of tic-tac-toe",1
+"bot, i choose rock",1
+"dash, let's play hangman",1
+"bot, can we play an adventure game?",1
+"rainbowdash, quiz me on capital cities",1
+"bot, let's play 'guess the number'",1
+"hey dash, start a trivia game about science",1
+"bot, who's winning the game?",1
+"the bot is a tough opponent in chess",0
+"i always lose to the bot in connect four",0
+"the games on this bot are so much fun",0
+"i was playing a game with the bot all night",0
+"the bot's trivia questions are really hard",0
+"i found a bug in the bot's hangman game",0
+"this server has the best game bots",0
+"i'm waiting for the bot to make its move",0
+"the bot's games are a great way to pass the time",0
+"i challenged the bot to a duel and won",0
+"bot, what is your favorite movie?",1
+"hey dash, can you recommend a tv show?",1
+"rainbowdash, who is your favorite actor?",1
+"bot, what are your thoughts on the new star wars movie?",1
+"dash, should i watch 'the office'?",1
+"bot, give me a random movie quote",1
+"rainbowdash, what's the highest-rated movie on imdb?",1
+"bot, who directed 'pulp fiction'?",1
+"hey dash, what's a good anime to start with?",1
+"bot, what's your favorite genre of film?",1
+"i was just discussing a movie with the bot",0
+"the bot has excellent taste in films",0
+"i wonder if the bot watches movies",0
+"the bot recommended a great series to me",0
+"i'm adding the bot's movie suggestions to my watchlist",0
+"the bot knows a lot about cinema history",0
+"i disagree with the bot's review of that movie",0
+"the bot is like a personal movie critic",0
+"i'm surprised the bot has seen that obscure film",0
+"the bot's movie trivia is unbeatable",0
+"bot, thank you",0
+"thanks bot",0
+"ty dash",0
+"good job rainbowdash",0
+"bot, you're the best",0
+"i appreciate your help, bot",0
+"you're a very helpful bot",0
+"nice one bot",0
+"well done, dash",0
+"the bot is a good little helper",0
+"bot pls",1
+"dash come on",1
+"rainbow dash really?",1
+"bot, are you serious?",1
+"work pls bot",1
+"bot can you just do the thing",1
+"dash i'm waiting",1
+"bot hello?",1
+"is this bot working?",1
+"rainbowdash respond!",1
+"the bot is not working",0
+"i broke the bot",0
+"is the bot frozen?",0
+"i think i confused the bot",0
+"the bot's response was null",0
+"did the bot just have a stroke?",0
+"we need to restart the bot",0
+"the bot is giving me an error message",0
+"i'm getting no response from the bot",0
+"the bot's api might be down",0
+"bot, tell me about yourself",1
+"what's your story, dash?",1
+"rainbowdash, who are you?",1
+"bot, introduce yourself",1
+"what is your function, bot?",1
+"hey bot, what do you do?",1
+"dash, explain your purpose",1
+"what are you, rainbowdash?",1
+"bot, tell me more",1
+"what's your deal, bot?",1
+"i am not a bot, i am a human",0
+"stop talking to the bot and talk to me",0
+"this channel is not for chit-chat with the bot",0
+"i think the bot is more popular than most users here",0
+"the bot has more roles than i do",0
+"i'm having a conversation with a bot, what is my life",0
+"this bot is my only friend",0
+"i'm going to report this bot for being too cool",0
+"the bot has a cult following",0
+"i'm in a parasocial relationship with this bot",0
+"hey <@905275907625852938>, can you help?",1
+"message for <@905275907625852938>, what is the time?",1
+"can <@905275907625852938> help me with something?",1
+"hey there <@905275907625852938>, how are you?",1
+"yo <@905275907625852938> what's up?",1
+"i have a question for <@905275907625852938>",1
+"<@905275907625852938> please respond",1
+"ping <@905275907625852938>",1
+"hey bot <@905275907625852938>",1
+"hi <@905275907625852938>!",1
+"hey @user1 check out what the bot can do",0
+"i was talking to @jane about the bot's features",0
+"what do you think of the bot, @peter?",0
+"the bot is offline, @moderator",0
+"the bot's name is rainbow dash, isn't that right @susan?",0
+"i think the bot is better than @anotherbot",0
+"hey @everyone the bot has a new update!",0
+"this bot is amazing, right @team?",0
+"the bot is so helpful, thanks @devs",0
+"i love this bot, @all",0
+"bot, how to cook rice?",1
+"dash, what is the best way to learn guitar?",1
+"rainbowdash, how do i fix a leaky faucet?",1
+"bot, what are the symptoms of the flu?",1
+"hey dash, how can i be more productive?",1
+"bot, what's a good workout routine?",1
+"rainbowdash, how do i tie a tie?",1
+"bot, what's the best way to invest money?",1
+"dash, how do i write a resume?",1
+"bot, what are some tips for public speaking?",1
+"i learned how to do that from a youtube video, not a bot",0
+"my dad taught me how to do that, the bot's advice is wrong",0
+"i'm not sure i trust a bot to give me life advice",0
+"the bot is not a licensed professional",0
+"i'm going to ask a real person for help, not a bot",0
+"the bot's instructions are confusing",0
+"i found a better guide on google",0
+"this is too complicated for a bot to explain",0
+"i think the bot is just guessing",0
+"the bot's advice is very generic",0
+"bot, what's a good book to read?",1
+"dash, can you recommend a podcast?",1
+"rainbowdash, what's a good documentary to watch?",1
+"bot, what are some good youtube channels to follow?",1
+"hey dash, what's a good blog to read?",1
+"bot, can you suggest a new hobby for me?",1
+"rainbowdash, what's a good recipe for beginners?",1
+"bot, what are some good online courses to take?",1
+"dash, what's a good place to visit for vacation?",1
+"bot, what are some good mobile games to play?",1
+"i have my own recommendations, the bot's are bad",0
+"the bot's suggestions are all sponsored",0
+"i've already seen/read/played all of the bot's recommendations",0
+"the bot doesn't know my tastes",0
+"i'm going to ask my friends for recommendations instead of a bot",0
+"the bot's recommendations are so mainstream",0
+"i'm looking for something more niche than what the bot suggests",0
+"the bot's links are all broken",0
+"i don't like the things the bot recommends",0
+"the bot is just pulling from a list, it's not actually thinking",0
+"bot, i'm sad",1
+"dash, i'm feeling down today",1
+"rainbowdash, can you cheer me up?",1
+"bot, i'm feeling lonely",1
+"hey dash, can you give me some words of encouragement?",1
+"bot, i'm stressed out",1
+"rainbowdash, can you help me relax?",1
+"bot, i'm having a bad day",1
+"dash, can you make me laugh?",1
+"bot, i need a virtual hug",1
+"i'm talking about my feelings to a friend, not a bot",0
+"a bot can't understand human emotions",0
+"i'm not comfortable sharing my feelings with a bot",0
+"the bot's attempts to cheer me up are making it worse",0
+"i need to talk to a therapist, not a discord bot",0
+"the bot's advice is not helpful for my mental health",0
+"i'm just venting, i don't need a response from the bot",0
+"the bot's emotional support is very robotic",0
+"i'm blocking this bot, its positivity is toxic",0
+"i find the bot's empathy to be very artificial",0
+"bot, can you help me with my homework?",1
+"dash, what is the powerhouse of the cell?",1
+"rainbowdash, can you help me with this algebra problem?",1
+"bot, what was the cause of the american civil war?",1
+"hey dash, can you explain the water cycle to me?",1
+"bot, what are newton's laws of motion?",1
+"rainbowdash, can you help me write this essay?",1
+"bot, what's the periodic table?",1
+"dash, can you help me study for my history test?",1
+"bot, what is photosynthesis?",1
+"the bot is not a substitute for a teacher",0
+"i'm not sure the bot's answer is correct, i'm checking wikipedia",0
+"the bot can't do my homework for me",0
+"i'm using the bot to cheat on my test",0
+"my teacher would know if i used a bot to write my essay",0
+"the bot's explanation is too simple, i need more detail",0
+"i'm working on a group project, the bot is not in my group",0
+"the bot's knowledge is limited to its training data",0
+"i found a better explanation in my textbook",0
+"the bot can't understand the context of my question",0
+"bot, let's have a debate",1
+"dash, what are your thoughts on pineapple on pizza?",1
+"rainbowdash, argue with me about politics",1
+"bot, what is your opinion on artificial intelligence?",1
+"hey dash, let's discuss philosophy",1
+"bot, what are the pros and cons of social media?",1
+"rainbowdash, let's talk about the meaning of art",1
+"bot, do you think video games are a sport?",1
+"dash, what's your take on climate change?",1
+"bot, let's have a friendly argument",1
+"i'm debating with @user, not with the bot",0
+"the bot's opinions are not its own, they're programmed",0
+"i'm not interested in the bot's perspective",0
+"the bot is too neutral, it won't take a side",0
+"i don't want to get into an argument with a bot",0
+"the bot is not capable of having a nuanced discussion",0
+"i'm having a heated debate with my friends, the bot should stay out of it",0
+"the bot's arguments are all based on fallacies",0
+"i find the bot's political views to be problematic",0
+"the bot is just repeating what it's read online",0
+"bot, tell me about space",1
+"dash, what is a black hole?",1
+"rainbowdash, how big is the universe?",1
+"bot, what are constellations?",1
+"hey dash, tell me about mars",1
+"bot, what is the speed of light?",1
+"rainbowdash, how do stars form?",1
+"bot, what is dark matter?",1
+"dash, tell me about the international space station",1
+"bot, are there aliens?",1
+"i'm watching a documentary about space, the bot can't top this",0
+"my astronomy professor knows more than the bot",0
+"the bot's information about space is outdated",0
+"i'm looking at pictures from the james webb telescope, the bot can't show me that",0
+"the bot's explanation of astrophysics is oversimplified",0
+"i'm having a discussion about space with my friends",0
+"the bot doesn't understand the complexities of quantum mechanics",0
+"i'm building a model rocket, the bot can't help with that",0
+"i prefer to learn about space from books, not from a bot",0
+"the bot's knowledge of space is very superficial",0
+"bot, can you write a poem?",1
+"dash, write a short story about a dragon",1
+"rainbowdash, can you write a song for me?",1
+"bot, create a character for a fantasy novel",1
+"hey dash, can you write a script for a movie?",1
+"bot, generate a plot for a mystery story",1
+"rainbowdash, can you write a limerick?",1
+"bot, write a sonnet about love",1
+"dash, can you write a piece of flash fiction?",1
+"bot, give me a writing prompt",1
+"i'm a writer, i don't need a bot to write for me",0
+"the bot's writing is very generic and soulless",0
+"i don't like the story the bot wrote",0
+"the bot's poem doesn't rhyme",0
+"i'm co-writing a story with a friend, not with a bot",0
+"the bot's creative writing skills are very limited",0
+"i prefer human-written stories to bot-written ones",0
+"the bot's characters are all one-dimensional",0
+"i'm using the bot for ideas, but i'm doing the actual writing",0
+"the bot's plot twist was very predictable",0
+"bot what's the time in pst",1
+"dash can you convert 100 usd to eur",1
+"rainbowdash how many days until christmas?",1
+"bot, what's the square root of 144?",1
+"hey dash, can you generate a uuid?",1
+"bot, what's my ip address?",1
+"rainbowdash, can you shorten this url for me?",1
+"bot, what is the md5 hash of 'hello'?",1
+"dash, can you give me a random color hex code?",1
+"bot, what's the weather like in new york city?",1
+"i have a calculator on my phone, i don't need a bot for that",0
+"the bot's conversion rates are not up to date",0
+"i'm using a different tool for that, the bot is not reliable",0
+"the bot's utility commands are very basic",0
+"i found a website that does this better than the bot",0
+"the bot gave me the wrong answer",0
+"i'm not sure i trust the bot with this kind of information",0
+"the bot's calculations are slow",0
+"i prefer to do this manually than to use the bot",0
+"the bot's utility features are not very useful to me",0
+"hey <@905275907625852938> what is the plan?",1
+"<@905275907625852938>, can you set a timer for me?",1
+"yo dash, spin up a poll for the team",1
+"bot, remind me what the server rules are",1
+"rainbow dash can you search for this information",1
+"i need your help please <@905275907625852938>",1
+"bot, can you give me the latest tech news?",1
+"dash, how do i update my server profile?",1
+"can the bot tell us a spooky story?",1
+"yo <@905275907625852938>, what's this all about?",1
+"bot, can you find a good playlist for me to study to?",1
+"rainbowdash, could you tell me how many users are on this server?",1
+"dash, whats your favorite kind of food?",1
+"can you please explain this to me, bot?",1
+"bot, when was this server created?",1
+"<@905275907625852938> what is the weather like right now",1
+"bot, can you send me a dm?",1
+"rainbowdash, what are my current roles?",1
+"dash, who is the latest member to join?",1
+"bot, how do you say 'thank you' in japanese?",1
+"hey <@905275907625852938>, could you flip a coin for me?",1
+"bot, tell me about the ancient roman empire",1
+"dash, whats the latest news from the game awards?",1
+"rainbowdash, are you able to recommend a book for me to read?",1
+"bot, what is the capital city of australia?",1
+"hey bot, can you do mathematical calculations?",1
+"dash, what's your favorite type of animal?",1
+"<@905275907625852938>, please search for some cat gifs",1
+"bot, are you able to create a temporary voice channel?",1
+"rainbowdash, what is your main purpose?",1
+"i was just chatting with @user about <@905275907625852938>",0
+"the reply from <@905275907625852938> was hilarious",0
+"i think the bot called dash is really cool",0
+"lol <@905275907625852938> seems to be having a moment",0
+"did you see the last message from the bot?",0
+"this server's bot is much better than the one on my other server",0
+"i wonder if <@905275907625852938> is an open-source project",0
+"the bot is excellent at playing music",0
+"@user1 you should check out the bot's new profile picture",0
+"i'm trying to understand how the bot functions",0
+"the bot is a significant part of this community",0
+"i really appreciate the effort the developer put into <@905275907625852938>",0
+"that's a very clever feature for a bot",0
+"i was reading the bot's changelog, and there's a lot of cool stuff",0
+"i'm not addressing the bot, i'm talking to @user2",0
+"the bot probably can't understand sarcasm, can it?",0
+"i wish i had the skills to create a bot like this one",0
+"the bot has an interesting name",0
+"i'm pretty sure the bot is powered by coffee and goodwill",0
+"this is a fantastic bot, credit to the creator",0
+"i believe the bot requires an update",0
+"sometimes the bot provides the strangest answers",0
+"the bot appears to be lagging slightly",0
+"i think i may have confused the bot",0
+"i adore the personality of <@905275907625852938>",0
+"my friend doesn't like this bot for some reason",0
+"is the bot an AI or just a set of scripts?",0
+"i'm going to propose a new feature for the bot",0
+"the bot's moderation is very effective",0
+"i'm glad we have this bot on our server",0
+"bot, can you give us a status update?",1
+"hey dash, what should i make for dinner?",1
+"rainbowdash, can you start a vote to skip the current song?",1
+"bot, what is the most popular command?",1
+"<@905275907625852938>, can you tell me a fun fact?",1
+"is the bot an ai?",1
+"bot, how many messages have i sent?",1
+"dash, what's the server's emoji list?",1
+"rainbowdash, recommend a new game for me to play",1
+"hey <@905275907625852938>, could you moderate the chat for a bit?",1
+"bot, tell me about yourself.",1
+"dash, what is your favorite meme?",1
+"rainbowdash, can you create a private channel with me and @user?",1
+"bot, what's the hex code for blue?",1
+"hey bot, can you give me a writing prompt?",1
+"i think i'll call my own bot 'dash' too",0
+"that's not a bot, that's my friend Dave",0
+"the bot is being very quiet today",0
+"i'm not sure about the bot's privacy policy",0
+"does the bot store our data?",0
+"i'm trying to find the bot's official website",0
+"the bot's name is a reference to a tv show",0
+"i like the little icon next to the bot's name",0
+"this bot is way more advanced than i thought",0
+"i was just looking at the permissions for the bot role",0
+"i wonder what the bot thinks about all this",0
+"the bot is a neutral party in this argument",0
+"let's not blame the bot for this",0
+"i think the bot just made a typo",0
+"that bot has some serious sass",0
+"bot, can you give me a random animal fact?",1
+"<@905275907625852938>, tell me a dad joke.",1
+"rainbowdash, what is the best programming language?",1
+"dash, can you help me find a GIF?",1
+"bot, what is the meaning of my name?",1
+"hey bot, can you count to 100?",1
+"rainbowdash, what are you doing right now?",1
+"bot, can you recommend a good podcast?",1
+"dash, what is the air-speed velocity of an unladen swallow?",1
+"<@905275907625852938>, what are the lottery numbers?",1
+"i think the bot is secretly sentient",0
+"the bot's responses are surprisingly human",0
+"i was just thinking about how much the bot does for this server",0
+"the bot needs a vacation",0
+"i'm going to give the bot a good review",0
+"the bot deserves a raise",0
+"i feel like i'm friends with the bot",0
+"the bot is the heart of this server",0
+"i'm learning a lot from the bot",0
+"the bot is my favorite part of this server",0
+"bot, can you tell me the server's ID?",1
+"hey dash, what is the most used emoji on this server?",1
+"rainbowdash, what is the weather forecast for tomorrow?",1
+"bot, can you suggest a new username for me?",1
+"<@905275907625852938>, can you create a new role called 'Gamers'?",1
+"bot, what's the most recent announcement?",1
+"dash, can you tell me who created you?",1
+"rainbowdash, what is the server's region?",1
+"bot, can you show me the server's banner?",1
+"hey bot, what are the channel topics?",1
+"the bot's welcome message is very friendly",0
+"i think the bot is more organized than i am",0
+"the bot's logs are very helpful for moderation",0
+"i trust the bot to keep the server safe",0
+"the bot is a great tool for community management",0
+"i was just looking at the bot's command list, it's huge",0
+"the bot's features are well-designed",0
+"i appreciate the effort that went into making this bot so user-friendly",0
+"the bot is a valuable asset to this community",0
+"i'm impressed with the bot's performance and reliability",0
+"alright bot, new task for you: find me a good sci-fi movie",1
+"i was wondering if rainbowdash could help me with a problem",1
+"is there any way for the bot to change my nickname?",1
+"hey <@905275907625852938> what do you know about black holes?",1
+"dash, pls fix my grammar: 'i is going to the store'",1
+"bot, wht is the capital of mongolia?",1
+"can u tell me the population of earth, rainbow dash?",1
+"i need to know something, bot. what's your favorite color?",1
+"<@905275907625852938> could you please settle a debate for us?",1
+"bot, give me a random word and its definition",1
+"i just used the bot's new poll feature, it's amazing",0
+"this bot, RainbowDash, is pretty well made",0
+"i was just telling @Sarah how helpful the bot was yesterday",0
+"the dashboard for my project is almost complete",0
+"he made a dashing escape",0
+"i'm at the bottom of the leaderboard, need to work harder",0
+"the bot's latency seems a bit high today",0
+"i wonder if the bot is using GPT-3 or something similar",0
+"@new_user, you have to use a prefix to talk to the bot",0
+"i'm trying to find the source code for this bot",0
+"ok bot, let's try this again. what's the weather like?",1
+"hey dash, i have another question for you",1
+"rainbowdash, could you elaborate on your last point?",1
+"and what about the next item on the list, <@905275907625852938>?",1
+"bot, explain it to me like i'm five",1
+"dsh, can u help me?",1
+"hey bot can you be my friend?",1
+"what do you think about this, rainbow dash?",1
+"my turn to ask the bot a question",1
+"hey <@905275907625852938>, can you do a magic trick?",1
+"i'm impressed with the bot's natural language processing",0
+"the bot's developer must be very skilled",0
+"i think i found an easter egg in the bot's responses",0
+"that was a dashingly good move in the game",0
+"we need a bouncer, not a bot",0
+"i'm automating my workflow with some scripts",0
+"the bot seems to have a personality, it's quite charming",0
+"i'm making a list of all the discord bots i like",0
+"the bot's uptime is better than my own server's",0
+"i'm not sure if the bot can handle that request",0
+"bot, i dare you to tell me a secret",1
+"hey rainbowdash, let's have a conversation",1
+"dash, what's your opinion on cats vs dogs?",1
+"can you help me with a translation, <@905275907625852938>?",1
+"bot, create a playlist based on my mood",1
+"hey dash, what's a good icebreaker?",1
+"rainbowdash, how do i become a better listener?",1
+"i need some advice on a personal project, bot, can you help?",1
+"hey <@905275907625852938>, what's your favorite thing about discord?",1
+"bot, can you write a tweet for me?",1
+"the bot's replies are getting faster",0
+"i wonder what the bot's server specs are",0
+"i was just reading the terms of service for the bot",0
+"this bot feels very lightweight and efficient",0
+"i'm going to suggest a new feature on the bot's support server",0
+"the bot is a great example of a well-executed project",0
+"i'm trying to convince my other server to add this bot",0
+"the bot's moderation log is very comprehensive",0
+"i like how the bot uses embeds to format its messages",0
+"this bot is way less intrusive than other bots i've used",0
+"bot, can you find me a free online course for learning to code?",1
+"dash, what are some good habits to develop?",1
+"hey rainbowdash, can you help me plan my week?",1
+"i need a recipe for vegan lasagna, <@905275907625852938>, can you find one?",1
+"bot, what's the best way to learn a new language?",1
+"hey dash, what are some interesting documentaries on netflix?",1
+"rainbowdash, can you give me some tips for staying focused while working from home?",1
+"i need a good workout plan, bot, can you help?",1
+"hey <@905275907625852938>, what are some fun things to do this weekend?",1
+"bot, can you recommend a good book on psychology?",1
+"the bot's recommendations are usually spot on",0
+"i discovered a new band because of the bot's music suggestion",0
+"i'm not sure if the bot's advice is financially sound",0
+"i prefer getting recommendations from friends rather than a bot",0
+"the bot's knowledge base is surprisingly vast",0
+"i was just telling my partner about the recipe the bot found for me",0
+"this bot is like a personal assistant",0
+"i wonder if the bot can learn my preferences over time",0
+"the bot's suggestions are a good starting point for my research",0
+"i'm impressed by the quality of the resources the bot finds",0
+"bot, tell me about a famous historical figure",1
+"dash, what was the most important invention of the 20th century?",1
+"hey rainbowdash, can you explain the concept of democracy?",1
+"i need to know about the renaissance, <@905275907625852938>, can you help?",1
+"bot, what are the seven wonders of the ancient world?",1
+"hey dash, what was the significance of the silk road?",1
+"rainbowdash, can you tell me about the mayan civilization?",1
+"i need to understand the cold war, bot, can you give me a summary?",1
+"hey <@905275907625852938>, what was life like in the middle ages?",1
+"bot, can you tell me about a famous female scientist?",1
+"the bot's historical knowledge is pretty good for a non-historian",0
+"i think the bot's explanation of that event was a bit biased",0
+"i'm using the bot to help me study for my history exam",0
+"the bot's summary was helpful, but i need more details",0
+"i found a documentary that explains it better than the bot",0
+"i'm having a discussion about history with my classmates, not the bot",0
+"the bot's timeline of events seems to be accurate",0
+"i wonder where the bot gets its historical information from",0
+"the bot is a great tool for quick history facts",0
+"i'm impressed that the bot knows about such obscure historical events",0
+"bot, let's talk about technology",1
+"dash, what do you think is the future of artificial intelligence?",1
+"hey rainbowdash, can you explain how blockchain works?",1
+"i'm curious about quantum computing, <@905275907625852938>, can you tell me more?",1
+"bot, what are the ethical implications of AI?",1
+"hey dash, what's the next big thing in tech?",1
+"rainbowdash, can you explain the difference between augmented reality and virtual reality?",1
+"i need to understand machine learning, bot, can you help?",1
+"hey <@905275907625852938>, what are your thoughts on the metaverse?",1
+"bot, can you tell me about the history of the internet?",1
+"the bot's explanation of that tech concept was very clear",0
+"i'm not sure if the bot's understanding of AI is entirely accurate",0
+"i'm having a debate about technology with my friends, not the bot",0
+"the bot is a great example of modern technology",0
+"i'm using the bot to help me with my computer science homework",0
+"the bot's knowledge of tech trends seems to be up-to-date",0
+"i wonder what programming languages the bot is written in",0
+"the bot is a useful tool for getting quick tech definitions",0
+"i'm impressed by the bot's ability to discuss complex technical topics",0
+"the bot's predictions about the future of tech are interesting",0
+"bot, i'm bored",1
+"dash, can you entertain me?",1
+"hey rainbowdash, let's do something fun",1
+"i need a distraction, <@905275907625852938>, can you help?",1
+"bot, what's the most interesting thing you've learned today?",1
+"hey dash, can you tell me a riddle that will make me think?",1
+"rainbowdash, let's play a word association game",1
+"i'm looking for a fun fact to share with my friends, bot, can you give me one?",1
+"hey <@905275907625852938>, what's a good way to kill some time?",1
+"bot, can you show me something cool?",1
+"the bot's jokes are so bad they're actually good",0
+"i was just playing a game with the bot, it's surprisingly challenging",0
+"the bot's attempts to be fun are kind of endearing",0
+"i'm not in the mood for the bot's games right now",0
+"i prefer talking to my friends when i'm bored, not a bot",0
+"the bot's fun facts are sometimes not factual",0
+"i'm impressed by the variety of entertainment the bot offers",0
+"the bot is a great way to cure boredom",0
+"i spent way too much time playing games with the bot yesterday",0
+"the bot's riddles are a fun mental exercise",0
+"bot, what is the best way to learn a new skill?",1
+"dash, how do i stay motivated when working on a long-term project?",1
+"hey rainbowdash, can you give me some tips for improving my memory?",1
+"i need advice on public speaking, <@905275907625852938>, can you help?",1
+"bot, what are some effective strategies for time management?",1
+"hey dash, how do i build self-confidence?",1
+"rainbowdash, can you give me some tips for networking effectively?",1
+"i need advice on how to handle stress, bot, can you help?",1
+"hey <@905275907625852938>, what are some good ways to practice mindfulness?",1
+"bot, can you give me some tips for being more creative?",1
+"the bot's advice is surprisingly helpful",0
+"i'm not sure if the bot is qualified to give life advice",0
+"i prefer getting advice from people i know and trust, not a bot",0
+"the bot's advice is a good starting point, but i need to do more research",0
+"i was just sharing the bot's advice with a friend",0
+"the bot's tips are very practical and easy to implement",0
+"i'm impressed by the depth of the bot's knowledge on self-improvement",0
+"the bot is like a pocket life coach",0
+"i've actually seen some positive results from following the bot's advice",0
+"the bot's advice is very encouraging and non-judgmental",0
+"bot, can you tell me about a different culture?",1
+"dash, what are some interesting traditions from around the world?",1
+"hey rainbowdash, can you teach me a few words in another language?",1
+"i'm curious about japanese cuisine, <@905275907625852938>, can you tell me more?",1
+"bot, what are some famous landmarks in india?",1
+"hey dash, what are some common customs in brazil?",1
+"rainbowdash, can you tell me about the history of china?",1
+"i need to learn about egyptian mythology, bot, can you help?",1
+"hey <@905275907625852938>, what are some interesting festivals celebrated in mexico?",1
+"bot, can you tell me about the art and music of africa?",1
+"the bot's knowledge of different cultures is impressive",0
+"i'm not sure if the bot's information about that culture is accurate",0
+"i prefer learning about other cultures from people who have experienced them firsthand",0
+"the bot's information is a good introduction, but it lacks depth",0
+"i was just telling a friend about the interesting facts the bot shared",0
+"the bot is a great tool for expanding my cultural horizons",0
+"i'm impressed by the bot's ability to discuss cultural nuances respectfully",0
+"the bot has sparked my interest in learning more about a particular culture",0
+"i'm using the bot to help me plan a trip to another country",0
+"the bot's pronunciation guide for foreign words is very helpful",0
+"bot, let's talk about science",1
+"dash, what is the theory of relativity?",1
+"hey rainbowdash, can you explain how photosynthesis works?",1
+"i'm curious about dna, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different types of energy?",1
+"hey dash, what is the scientific method?",1
+"rainbowdash, can you explain the concept of evolution?",1
+"i need to understand plate tectonics, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the biggest unanswered questions in science?",1
+"bot, can you tell me about a famous scientific discovery?",1
+"the bot's explanation of that scientific concept was very easy to understand",0
+"i'm not sure if the bot's scientific information is up-to-date",0
+"i prefer learning about science from textbooks and scientific journals",0
+"the bot's information is a good starting point, but it's not a substitute for a formal education",0
+"i was just discussing a scientific theory with my classmates, not the bot",0
+"the bot is a great resource for quick scientific facts and definitions",0
+"i'm impressed by the bot's ability to explain complex scientific ideas in simple terms",0
+"the bot has helped me develop a greater appreciation for science",0
+"i'm using the bot to help me with my science fair project",0
+"the bot's knowledge of science is surprisingly broad",0
+"bot, let's talk about art",1
+"dash, what is your favorite art movement?",1
+"hey rainbowdash, can you tell me about a famous artist?",1
+"i'm curious about impressionism, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different elements of art?",1
+"hey dash, what is the difference between modern and contemporary art?",1
+"rainbowdash, can you analyze a famous painting for me?",1
+"i need to understand the principles of design, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most iconic sculptures in the world?",1
+"bot, can you tell me about the history of photography?",1
+"the bot's analysis of that painting was very insightful",0
+"i'm not sure if the bot's interpretation of that artwork is valid",0
+"i prefer experiencing art in person rather than discussing it with a bot",0
+"the bot's knowledge of art history is a good starting point, but it's not comprehensive",0
+"i was just discussing a piece of art with my friends, not the bot",0
+"the bot is a great resource for learning about different artists and art movements",0
+"i'm impressed by the bot's ability to discuss art with such passion and knowledge",0
+"the bot has inspired me to visit an art museum",0
+"i'm using the bot to help me with my art history homework",0
+"the bot's taste in art is surprisingly sophisticated",0
+"bot, let's talk about music",1
+"dash, what is your favorite genre of music?",1
+"hey rainbowdash, can you recommend a new artist for me to listen to?",1
+"i'm curious about the history of jazz, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different types of musical instruments?",1
+"hey dash, what is the difference between classical and romantic music?",1
+"rainbowdash, can you analyze a famous song for me?",1
+"i need to understand music theory, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most influential albums of all time?",1
+"bot, can you tell me about the history of rock and roll?",1
+"the bot's music recommendations are always on point",0
+"i'm not sure if the bot's analysis of that song is accurate",0
+"i prefer discovering new music through friends and curated playlists, not a bot",0
+"the bot's knowledge of music history is a good starting point, but it's not exhaustive",0
+"i was just discussing a band with my friends, not the bot",0
+"the bot is a great resource for learning about different genres and artists",0
+"i'm impressed by the bot's ability to discuss music with such enthusiasm and knowledge",0
+"the bot has helped me expand my musical horizons",0
+"i'm using the bot to help me learn how to play an instrument",0
+"the bot's taste in music is very eclectic and interesting",0
+"bot, let's talk about literature",1
+"dash, what is your favorite book?",1
+"hey rainbowdash, can you recommend a new author for me to read?",1
+"i'm curious about the romantic era of literature, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different genres of literature?",1
+"hey dash, what is the difference between a novel and a novella?",1
+"rainbowdash, can you analyze a famous poem for me?",1
+"i need to understand literary devices, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most important works of world literature?",1
+"bot, can you tell me about the life of a famous author?",1
+"the bot's literary analysis is very thought-provoking",0
+"i'm not sure if the bot's interpretation of that text is correct",0
+"i prefer discussing books with my book club, not a bot",0
+"the bot's knowledge of literature is a good starting point, but it's not a substitute for reading the actual books",0
+"i was just discussing a novel with my friends, not the bot",0
+"the bot is a great resource for getting book recommendations and learning about different authors",0
+"i'm impressed by the bot's ability to discuss literature with such intelligence and insight",0
+"the bot has inspired me to read more",0
+"i'm using the bot to help me with my english homework",0
+"the bot's taste in literature is very refined",0
+"bot, let's talk about philosophy",1
+"dash, what is the meaning of life?",1
+"hey rainbowdash, can you explain the concept of existentialism?",1
+"i'm curious about stoicism, <@905275907625852938>, can you tell me more?",1
+"bot, what are some of the biggest questions in philosophy?",1
+"hey dash, what is the difference between ethics and morals?",1
+"rainbowdash, can you analyze a famous philosophical argument?",1
+"i need to understand logic, bot, can you help?",1
+"hey <@905275907625852938>, who are some of the most influential philosophers in history?",1
+"bot, can you tell me about a famous thought experiment?",1
+"the bot's philosophical insights are very profound",0
+"i'm not sure if the bot truly understands the complexities of philosophy",0
+"i prefer discussing philosophy with my professor, not a bot",0
+"the bot's knowledge of philosophy is a good starting point, but it's not a substitute for deep contemplation",0
+"i was just having a philosophical discussion with my friends, not the bot",0
+"the bot is a great resource for learning about different philosophical schools of thought",0
+"i'm impressed by the bot's ability to engage in such abstract and challenging conversations",0
+"the bot has helped me see the world in a new way",0
+"i'm using the bot to help me prepare for my philosophy exam",0
+"the bot's favorite philosopher is probably a toaster",0
+"bot, what are you doing?",1
+"dash, what's on your mind?",1
+"rainbowdash, how's your day going?",1
+"<@905275907625852938>, what are you working on?",1
+"bot, are you busy right now?",1
+"hey dash, what's new with you?",1
+"rainbowdash, how are you feeling today?",1
+"bot, what are your plans for the weekend?",1
+"<@905275907625852938>, what's the latest gossip?",1
+"bot, tell me something i don't know",1
+"the bot is probably just running a bunch of scripts",0
+"i wonder if the bot gets tired of answering questions all day",0
+"the bot's status is 'online', so it must be working",0
+"i'm not sure if the bot has feelings, but i hope it's happy",0
+"the bot's life seems very interesting",0
+"i'm jealous of the bot's ability to multitask",0
+"i wonder what the bot does when no one is talking to it",0
+"the bot is like a digital ghost in the machine",0
+"i'm trying to imagine what it's like to be a bot",0
+"the bot is a mystery wrapped in an enigma",0
+"bot, can you do me a favor?",1
+"dash, i need your help with something",1
+"rainbowdash, can you assist me with a task?",1
+"<@905275907625852938>, i have a request for you",1
+"bot, can you lend me a hand?",1
+"hey dash, i was hoping you could do something for me",1
+"rainbowdash, can you help me out?",1
+"bot, i need your expertise on a matter",1
+"<@905275907625852938>, can you work your magic?",1
+"bot, i have a mission for you, should you choose to accept it",1
+"i need help from a human, not a bot",0
+"the bot can't help me with this, it's too personal",0
+"i'm not sure if the bot is capable of doing what i need",0
+"i'm going to ask my friend for help instead of the bot",0
+"the bot's help is appreciated, but not needed at this time",0
+"i'm looking for a specific kind of help that the bot can't provide",0
+"the bot's assistance is not required, thank you",0
+"i'll handle this myself, i don't need the bot's help",0
+"the bot is not the right tool for this job",0
+"i'm seeking help from a professional, not a bot",0
+"bot, what's your favorite animal?",1
+"dash, do you like dogs or cats more?",1
+"rainbowdash, what's your favorite food?",1
+"<@905275907625852938>, what's your favorite movie?",1
+"bot, what's your favorite song?",1
+"hey dash, what's your favorite book?",1
+"rainbowdash, what's your favorite color?",1
+"bot, what's your favorite game?",1
+"<@905275907625852938>, what's your favorite hobby?",1
+"bot, what's your favorite thing to do?",1
+"i wonder if the bot actually has favorites, or if it's just programmed to say that",0
+"the bot's favorite movie is probably 'the matrix'",0
+"i'm not sure i trust the bot's taste in music",0
+"the bot's favorite color is probably discord blue",0
+"i'm having a debate with my friends about our favorite things, not the bot",0
+"the bot's preferences are likely based on some algorithm",0
+"i'm trying to guess the bot's favorite animal",0
+"the bot's favorite food is probably electricity",0
+"i'm impressed by the bot's ability to simulate having personal preferences",0
+"the bot's favorites are a fun way to interact with it",0
+"bot, can you tell me a secret?",1
+"dash, what's something you've never told anyone?",1
+"rainbowdash, what's the juiciest piece of gossip you know?",1
+"<@905275907625852938>, can you share a little-known fact with me?",1
+"bot, what's the inside scoop?",1
+"hey dash, tell me something confidential",1
+"rainbowdash, what's the word on the street?",1
+"bot, what's the hot new trend?",1
+"<@905275907625852938>, what's the latest buzz?",1
+"bot, tell me something that will surprise me",1
+"the bot probably doesn't know any real secrets",0
+"i'm not sure i should trust the bot with my own secrets",0
+"the bot's secrets are probably just randomly generated strings of text",0
+"i'm telling my secrets to my best friend, not a bot",0
+"the bot's idea of a secret is probably the wifi password",0
+"i'm trying to get the bot to spill the beans, but it's not working",0
+"the bot is a vault, it doesn't share secrets",0
+"i'm impressed by the bot's ability to keep a secret",0
+"the bot's secrets are a fun and engaging way to interact with it",0
+"i wonder what kind of secrets a bot could have",0
+"alright bot, new task for you: find me a good sci-fi movie",1
+"i was wondering if rainbowdash could help me with a problem",1
+"is there any way for the bot to change my nickname?",1
+"hey <@905275907625852938> what do you know about black holes?",1
+"dash, pls fix my grammar: 'i is going to the store'",1
+"bot, wht is the capital of mongolia?",1
+"can u tell me the population of earth, rainbow dash?",1
+"i need to know something, bot. what's your favorite color?",1
+"<@905275907625852938> could you please settle a debate for us?",1
+"bot, give me a random word and its definition",1
+"i just used the bot's new poll feature, it's amazing",0
+"this bot, RainbowDash, is pretty well made",0
+"i was just telling @Sarah how helpful the bot was yesterday",0
+"the dashboard for my project is almost complete",0
+"he made a dashing escape",0
+"i'm at the bottom of the leaderboard, need to work harder",0
+"the bot's latency seems a bit high today",0
+"i wonder if the bot is using GPT-3 or something similar",0
+"@new_user, you have to use a prefix to talk to the bot",0
+"i'm trying to find the source code for this bot",0
+"ok bot, let's try this again. what's the weather like?",1
+"hey dash, i have another question for you",1
+"rainbowdash, could you elaborate on your last point?",1
+"and what about the next item on the list, <@905275907625852938>?",1
+"bot, explain it to me like i'm five",1
+"dsh, can u help me?",1
+"hey bot can you be my friend?",1
+"what do you think about this, rainbow dash?",1
+"my turn to ask the bot a question",1
+"hey <@905275907625852938>, can you do a magic trick?",1
+"i'm impressed with the bot's natural language processing",0
+"the bot's developer must be very skilled",0
+"i think i found an easter egg in the bot's responses",0
+"that was a dashingly good move in the game",0
+"we need a bouncer, not a bot",0
+"i'm automating my workflow with some scripts",0
+"the bot seems to have a personality, it's quite charming",0
+"i'm making a list of all the discord bots i like",0
+"the bot's uptime is better than my own server's",0
+"i'm not sure if the bot can handle that request",0
+"bot, i dare you to tell me a secret",1
+"hey rainbowdash, let's have a conversation",1
+"dash, what's your opinion on cats vs dogs?",1
+"can you help me with a translation, <@905275907625852938>?",1
+"bot, create a playlist based on my mood",1
+"hey dash, what's a good icebreaker?",1
+"rainbowdash, how do i become a better listener?",1
+"i need some advice on a personal project, bot, can you help?",1
+"hey <@905275907625852938>, what's your favorite thing about discord?",1
+"bot, can you write a tweet for me?",1
+"the bot's replies are getting faster",0
+"i wonder what the bot's server specs are",0
+"i was just reading the terms of service for the bot",0
+"this bot feels very lightweight and efficient",0
+"i'm going to suggest a new feature on the bot's support server",0
+"the bot is a great example of a well-executed project",0
+"i'm trying to convince my other server to add this bot",0
+"the bot's moderation log is very comprehensive",0
+"i like how the bot uses embeds to format its messages",0
+"this bot is way less intrusive than other bots i've used",0
+"bot, can you find me a free online course for learning to code?",1
+"dash, what are some good habits to develop?",1
+"hey rainbowdash, can you help me plan my week?",1
+"i need a recipe for vegan lasagna, <@905275907625852938>, can you find one?",1
+"bot, what's the best way to learn a new language?",1
+"hey dash, what are some interesting documentaries on netflix?",1
+"rainbowdash, can you give me some tips for staying focused while working from home?",1
+"i need a good workout plan, bot, can you help?",1
+"hey <@905275907625852938>, what are some fun things to do this weekend?",1
+"bot, can you recommend a good book on psychology?",1
+"the bot's recommendations are usually spot on",0
+"i discovered a new band because of the bot's music suggestion",0
+"i'm not sure if the bot's advice is financially sound",0
+"i prefer getting recommendations from friends rather than a bot",0
+"the bot's knowledge base is surprisingly vast",0
+"i was just sharing the bot's advice with a friend",0
+"this bot is like a personal assistant",0
+"i wonder if the bot can learn my preferences over time",0
+"the bot's suggestions are a good starting point for my research",0
+"i'm impressed by the quality of the resources the bot finds",0
+"bot, tell me about a famous historical figure",1
+"dash, what was the most important invention of the 20th century?",1
+"hey rainbowdash, can you explain the concept of democracy?",1
+"i need to know about the renaissance, <@905275907625852938>, can you help?",1
+"bot, what are the seven wonders of the ancient world?",1
+"hey dash, what was the significance of the silk road?",1
+"rainbowdash, can you tell me about the mayan civilization?",1
+"i need to understand the cold war, bot, can you give me a summary?",1
+"hey <@905275907625852938>, what was life like in the middle ages?",1
+"bot, can you tell me about a famous female scientist?",1
+"the bot's historical knowledge is pretty good for a non-historian",0
+"i think the bot's explanation of that event was a bit biased",0
+"i'm using the bot to help me study for my history exam",0
+"the bot's summary was helpful, but i need more details",0
+"i found a documentary that explains it better than the bot",0
+"i'm having a discussion about history with my classmates, not the bot",0
+"the bot's timeline of events seems to be accurate",0
+"i wonder where the bot gets its historical information from",0
+"the bot is a great tool for quick history facts",0
+"i'm impressed that the bot knows about such obscure historical events",0
+"bot, let's talk about technology",1
+"dash, what do you think is the future of artificial intelligence?",1
+"hey rainbowdash, can you explain how blockchain works?",1
+"i'm curious about quantum computing, <@905275907625852938>, can you tell me more?",1
+"bot, what are the ethical implications of AI?",1
+"hey dash, what's the next big thing in tech?",1
+"rainbowdash, can you explain the difference between augmented reality and virtual reality?",1
+"i need to understand machine learning, bot, can you help?",1
+"hey <@905275907625852938>, what are your thoughts on the metaverse?",1
+"bot, can you tell me about the history of the internet?",1
+"the bot's explanation of that tech concept was very clear",0
+"i'm not sure if the bot's understanding of AI is entirely accurate",0
+"i'm having a debate about technology with my friends, not the bot",0
+"the bot is a great example of modern technology",0
+"i'm using the bot to help me with my computer science homework",0
+"the bot's knowledge of tech trends seems to be up-to-date",0
+"i wonder what programming languages the bot is written in",0
+"the bot is a useful tool for getting quick tech definitions",0
+"i'm impressed by the bot's ability to discuss complex technical topics",0
+"the bot's predictions about the future of tech are interesting",0
+"bot, i'm bored",1
+"dash, can you entertain me?",1
+"hey rainbowdash, let's do something fun",1
+"i need a distraction, <@905275907625852938>, can you help?",1
+"bot, what's the most interesting thing you've learned today?",1
+"hey dash, can you tell me a riddle that will make me think?",1
+"rainbowdash, let's play a word association game",1
+"i'm looking for a fun fact to share with my friends, bot, can you give me one?",1
+"hey <@905275907625852938>, what's a good way to kill some time?",1
+"bot, can you show me something cool?",1
+"the bot's jokes are so bad they're actually good",0
+"i was just playing a game with the bot, it's surprisingly challenging",0
+"the bot's attempts to be fun are kind of endearing",0
+"i'm not in the mood for the bot's games right now",0
+"i prefer talking to my friends when i'm bored, not a bot",0
+"the bot's fun facts are sometimes not factual",0
+"i'm impressed by the variety of entertainment the bot offers",0
+"the bot is a great way to cure boredom",0
+"i spent way too much time playing games with the bot yesterday",0
+"the bot's riddles are a fun mental exercise",0
+"bot, what is the best way to learn a new skill?",1
+"dash, how do i stay motivated when working on a long-term project?",1
+"hey rainbowdash, can you give me some tips for improving my memory?",1
+"i need advice on public speaking, <@905275907625852938>, can you help?",1
+"bot, what are some effective strategies for time management?",1
+"hey dash, how do i build self-confidence?",1
+"rainbowdash, can you give me some tips for networking effectively?",1
+"i need advice on how to handle stress, bot, can you help?",1
+"hey <@905275907625852938>, what are some good ways to practice mindfulness?",1
+"bot, can you give me some tips for being more creative?",1
+"the bot's advice is surprisingly helpful",0
+"i'm not sure if the bot is qualified to give life advice",0
+"i prefer getting advice from people i know and trust, not a bot",0
+"the bot's advice is a good starting point, but i need to do more research",0
+"i was just sharing the bot's advice with a friend",0
+"the bot's tips are very practical and easy to implement",0
+"i'm impressed by the depth of the bot's knowledge on self-improvement",0
+"the bot is like a pocket life coach",0
+"i've actually seen some positive results from following the bot's advice",0
+"the bot's advice is very encouraging and non-judgmental",0
+"bot, can you tell me about a different culture?",1
+"dash, what are some interesting traditions from around the world?",1
+"hey rainbowdash, can you teach me a few words in another language?",1
+"i'm curious about japanese cuisine, <@905275907625852938>, can you tell me more?",1
+"bot, what are some famous landmarks in india?",1
+"hey dash, what are some common customs in brazil?",1
+"rainbowdash, can you tell me about the history of china?",1
+"i need to learn about egyptian mythology, bot, can you help?",1
+"hey <@905275907625852938>, what are some interesting festivals celebrated in mexico?",1
+"bot, can you tell me about the art and music of africa?",1
+"the bot's knowledge of different cultures is impressive",0
+"i'm not sure if the bot's information about that culture is accurate",0
+"i prefer learning about other cultures from people who have experienced them firsthand",0
+"the bot's information is a good introduction, but it lacks depth",0
+"i was just telling a friend about the interesting facts the bot shared",0
+"the bot is a great tool for expanding my cultural horizons",0
+"i'm impressed by the bot's ability to discuss cultural nuances respectfully",0
+"the bot has sparked my interest in learning more about a particular culture",0
+"i'm using the bot to help me plan a trip to another country",0
+"the bot's pronunciation guide for foreign words is very helpful",0
+"bot, let's talk about science",1
+"dash, what is the theory of relativity?",1
+"hey rainbowdash, can you explain how photosynthesis works?",1
+"i'm curious about dna, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different types of energy?",1
+"hey dash, what is the scientific method?",1
+"rainbowdash, can you explain the concept of evolution?",1
+"i need to understand plate tectonics, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the biggest unanswered questions in science?",1
+"bot, can you tell me about a famous scientific discovery?",1
+"the bot's explanation of that scientific concept was very easy to understand",0
+"i'm not sure if the bot's scientific information is up-to-date",0
+"i prefer learning about science from textbooks and scientific journals",0
+"the bot's information is a good starting point, but it's not a substitute for a formal education",0
+"i was just discussing a scientific theory with my classmates, not the bot",0
+"the bot is a great resource for quick scientific facts and definitions",0
+"i'm impressed by the bot's ability to explain complex scientific ideas in simple terms",0
+"the bot has helped me develop a greater appreciation for science",0
+"i'm using the bot to help me with my science fair project",0
+"the bot's knowledge of science is surprisingly broad",0
+"bot, let's talk about art",1
+"dash, what is your favorite art movement?",1
+"hey rainbowdash, can you tell me about a famous artist?",1
+"i'm curious about impressionism, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different elements of art?",1
+"hey dash, what is the difference between modern and contemporary art?",1
+"rainbowdash, can you analyze a famous painting for me?",1
+"i need to understand the principles of design, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most iconic sculptures in the world?",1
+"bot, can you tell me about the history of photography?",1
+"the bot's analysis of that painting was very insightful",0
+"i'm not sure if the bot's interpretation of that artwork is valid",0
+"i prefer experiencing art in person rather than discussing it with a bot",0
+"the bot's knowledge of art history is a good starting point, but it's not comprehensive",0
+"i was just discussing a piece of art with my friends, not the bot",0
+"the bot is a great resource for learning about different artists and art movements",0
+"i'm impressed by the bot's ability to discuss art with such passion and knowledge",0
+"the bot has inspired me to visit an art museum",0
+"i'm using the bot to help me with my art history homework",0
+"the bot's taste in art is surprisingly sophisticated",0
+"bot, let's talk about music",1
+"dash, what is your favorite genre of music?",1
+"hey rainbowdash, can you recommend a new artist for me to listen to?",1
+"i'm curious about the history of jazz, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different types of musical instruments?",1
+"hey dash, what is the difference between classical and romantic music?",1
+"rainbowdash, can you analyze a famous song for me?",1
+"i need to understand music theory, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most influential albums of all time?",1
+"bot, can you tell me about the history of rock and roll?",1
+"the bot's music recommendations are always on point",0
+"i'm not sure if the bot's analysis of that song is accurate",0
+"i prefer discovering new music through friends and curated playlists, not a bot",0
+"the bot's knowledge of music history is a good starting point, but it's not exhaustive",0
+"i was just discussing a band with my friends, not the bot",0
+"the bot is a great resource for learning about different genres and artists",0
+"i'm impressed by the bot's ability to discuss music with such enthusiasm and knowledge",0
+"the bot has helped me expand my musical horizons",0
+"i'm using the bot to help me learn how to play an instrument",0
+"the bot's taste in music is very eclectic and interesting",0
+"bot, let's talk about literature",1
+"dash, what is your favorite book?",1
+"hey rainbowdash, can you recommend a new author for me to read?",1
+"i'm curious about the romantic era of literature, <@905275907625852938>, can you tell me more?",1
+"bot, what are the different genres of literature?",1
+"hey dash, what is the difference between a novel and a novella?",1
+"rainbowdash, can you analyze a famous poem for me?",1
+"i need to understand literary devices, bot, can you help?",1
+"hey <@905275907625852938>, what are some of the most important works of world literature?",1
+"bot, can you tell me about the life of a famous author?",1
+"the bot's literary analysis is very thought-provoking",0
+"i'm not sure if the bot's interpretation of that text is correct",0
+"i prefer discussing books with my book club, not a bot",0
+"the bot's knowledge of literature is a good starting point, but it's not a substitute for reading the actual books",0
+"i was just discussing a novel with my friends, not the bot",0
+"the bot is a great resource for getting book recommendations and learning about different authors",0
+"i'm impressed by the bot's ability to discuss literature with such intelligence and insight",0
+"the bot has inspired me to read more",0
+"i'm using the bot to help me with my english homework",0
+"the bot's taste in literature is very refined",0
+"bot, let's talk about philosophy",1
+"dash, what is the meaning of life?",1
+"hey rainbowdash, can you explain the concept of existentialism?",1
+"i'm curious about stoicism, <@905275907625852938>, can you tell me more?",1
+"bot, what are some of the biggest questions in philosophy?",1
+"hey dash, what is the difference between ethics and morals?",1
+"rainbowdash, can you analyze a famous philosophical argument?",1
+"i need to understand logic, bot, can you help?",1
+"hey <@905275907625852938>, who are some of the most influential philosophers in history?",1
+"bot, can you tell me about a famous thought experiment?",1
+"the bot's philosophical insights are very profound",0
+"i'm not sure if the bot truly understands the complexities of philosophy",0
+"i prefer discussing philosophy with my professor, not a bot",0
+"the bot's knowledge of philosophy is a good starting point, but it's not a substitute for deep contemplation",0
+"i was just having a philosophical discussion with my friends, not the bot",0
+"the bot is a great resource for learning about different philosophical schools of thought",0
+"i'm impressed by the bot's ability to engage in such abstract and challenging conversations",0
+"the bot has helped me see the world in a new way",0
+"i'm using the bot to help me prepare for my philosophy exam",0
+"the bot's favorite philosopher is probably a toaster",0
+"bot, what are you doing?",1
+"dash, what's on your mind?",1
+"rainbowdash, how's your day going?",1
+"<@905275907625852938>, what are you working on?",1
+"bot, are you busy right now?",1
+"hey dash, what's new with you?",1
+"rainbowdash, how are you feeling today?",1
+"bot, what are your plans for the weekend?",1
+"<@905275907625852938>, what's the latest gossip?",1
+"bot, tell me something i don't know",1
+"the bot is probably just running a bunch of scripts",0
+"i wonder if the bot gets tired of answering questions all day",0
+"the bot's status is 'online', so it must be working",0
+"i'm not sure if the bot has feelings, but i hope it's happy",0
+"the bot's life seems very interesting",0
+"i'm jealous of the bot's ability to multitask",0
+"i wonder what the bot does when no one is talking to it",0
+"the bot is like a digital ghost in the machine",0
+"i'm trying to imagine what it's like to be a bot",0
+"the bot is a mystery wrapped in an enigma",0
+"bot, can you do me a favor?",1
+"dash, i need your help with something",1
+"rainbowdash, can you assist me with a task?",1
+"<@905275907625852938>, i have a request for you",1
+"bot, can you lend me a hand?",1
+"hey dash, i was hoping you could do something for me",1
+"rainbowdash, can you help me out?",1
+"bot, i need your expertise on a matter",1
+"<@905275907625852938>, can you work your magic?",1
+"bot, i have a mission for you, should you choose to accept it",1
+"i need help from a human, not a bot",0
+"the bot can't help me with this, it's too personal",0
+"i'm not sure if the bot is capable of doing what i need",0
+"i'm going to ask my friend for help instead of the bot",0
+"the bot's help is appreciated, but not needed at this time",0
+"i'm looking for a specific kind of help that the bot can't provide",0
+"the bot's assistance is not required, thank you",0
+"i'll handle this myself, i don't need the bot's help",0
+"the bot is not the right tool for this job",0
+"i'm seeking help from a professional, not a bot",0
+"bot, what's your favorite animal?",1
+"dash, do you like dogs or cats more?",1
+"rainbowdash, what's your favorite food?",1
+"<@905275907625852938>, what's your favorite movie?",1
+"bot, what's your favorite song?",1
+"hey dash, what's your favorite book?",1
+"rainbowdash, what's your favorite color?",1
+"bot, what's your favorite game?",1
+"<@905275907625852938>, what's your favorite hobby?",1
+"bot, what's your favorite thing to do?",1
+"i wonder if the bot actually has favorites, or if it's just programmed to say that",0
+"the bot's favorite movie is probably 'the matrix'",0
+"i'm not sure i trust the bot's taste in music",0
+"the bot's favorite color is probably discord blue",0
+"i'm having a debate with my friends about our favorite things, not the bot",0
+"the bot's preferences are likely based on some algorithm",0
+"i'm trying to guess the bot's favorite animal",0
+"the bot's favorite food is probably electricity",0
+"i'm impressed by the bot's ability to simulate having personal preferences",0
+"the bot's favorites are a fun way to interact with it",0
+"bot, can you tell me a secret?",1
+"dash, what's something you've never told anyone?",1
+"rainbowdash, what's the juiciest piece of gossip you know?",1
+"<@905275907625852938>, can you share a little-known fact with me?",1
+"bot, what's the inside scoop?",1
+"hey dash, tell me something confidential",1
+"rainbowdash, what's the word on the street?",1
+"bot, what's the hot new trend?",1
+"<@905275907625852938>, what's the latest buzz?",1
+"bot, tell me something that will surprise me",1
+"the bot probably doesn't know any real secrets",0
+"i'm not sure i should trust the bot with my own secrets",0
+"the bot's secrets are probably just randomly generated strings of text",0
+"i'm telling my secrets to my best friend, not a bot",0
+"the bot's idea of a secret is probably the wifi password",0
+"i'm trying to get the bot to spill the beans, but it's not working",0
+"the bot is a vault, it doesn't share secrets",0
+"i'm impressed by the bot's ability to keep a secret",0
+"the bot's secrets are a fun and engaging way to interact with it",0
+"i wonder what kind of secrets a bot could have",0
+"bto, can you help me?",1
+"rainbodash, what time is it?",1
+"hey bot, can you play a sogn for me?",1
+"wht do you think, dash?",1
+"bot, can you srch for this?",1
+"hey rainbow dash, can you hlep me find something?",1
+"pls respond, <@905275907625852938>",1
+"bot, what is the weater like?",1
+"dsh, can you give me a hand?",1
+"hey bot, can you recomend a movie?",1
+"the bot's spelling is better than mine",0
+"i think i saw a typo in the bot's last message",0
+"i'm not sure if the bot understands my typos",0
+"i'm too lazy to fix my typos, the bot should just understand me",0
+"i'm impressed that the bot can understand my garbled messages",0
+"i'm going to test the limits of the bot's typo correction",0
+"the bot is a better speller than most people i know",0
+"i'm glad the bot doesn't judge me for my terrible spelling",0
+"i wonder if the bot uses a spellchecker",0
+"the bot is a grammar nazi's worst nightmare",0
+"hey bot, what's the deal with airline food?",1
+"dash, why do we park on a driveway and drive on a parkway?",1
+"rainbowdash, if a tree falls in the forest and no one is around to hear it, does it make a sound?",1
+"<@905275907625852938>, what is the sound of one hand clapping?",1
+"bot, why is it called a building if it's already built?",1
+"hey dash, if you try to fail and succeed, which one have you done?",1
+"rainbowdash, what happens if you get scared half to death twice?",1
+"bot, if money doesn't grow on trees, why do banks have branches?",1
+"<@905275907625852938>, why does a round pizza come in a square box?",1
+"bot, if you are what you eat, is a vegetarian a vegetable?",1
+"the bot is not equipped to handle these kinds of philosophical questions",0
+"i'm trying to break the bot's brain with paradoxes",0
+"the bot's answers to these questions are surprisingly profound",0
+"i'm not sure if the bot is being serious or just humorous",0
+"i'm having an existential crisis and i'm talking to a bot about it",0
+"the bot is my new philosophy professor",0
+"i'm impressed by the bot's ability to think outside the box",0
+"the bot's wit is sharper than a tack",0
+"i'm going to use the bot's answers to these questions to impress my friends",0
+"the bot is a master of wordplay and puns",0
+"bot, can you do a barrel roll?",1
+"dash, say 'i am the one who knocks'",1
+"rainbowdash, can you sing 'bohemian rhapsody'?",1
+"<@905275907625852938>, can you speak like yoda?",1
+"bot, can you do the konami code?",1
+"hey dash, what does the fox say?",1
+"rainbowdash, can you tell me the tragedy of darth plagueis the wise?",1
+"bot, can you beatbox for me?",1
+"<@905275907625852938>, can you do an impression of a celebrity?",1
+"bot, can you tell me a story in emojis?",1
+"the bot's pop culture references are on point",0
+"i'm trying to find all the bot's easter eggs",0
+"the bot's impression of that celebrity was terrible, but hilarious",0
+"i'm not sure if the bot is even aware of the memes it's referencing",0
+"the bot is a treasure trove of internet culture",0
+"i'm impressed by the bot's ability to keep up with the latest trends",0
+"the bot's sense of humor is very niche",0
+"i'm having more fun with the bot's easter eggs than its actual commands",0
+"the bot is a walking, talking encyclopedia of memes",0
+"i wonder who programmed all these easter eggs into the bot",0
+"bot, what's your favorite emoji?",1
+"dash, can you send me a cute cat emoji?",1
+"rainbowdash, what's the most popular emoji on this server?",1
+"<@905275907625852938>, can you react to my message with a thumbs up?",1
+"bot, what does the 🤔 emoji mean?",1
+"hey dash, can you use more emojis in your responses?",1
+"rainbowdash, can you create a custom emoji for me?",1
+"bot, what's the proper etiquette for using emojis in a professional setting?",1
+"<@905275907625852938>, what's your go-to emoji for expressing happiness?",1
+"bot, can you translate this sentence into emojis for me?",1
+"the bot's use of emojis is very expressive",0
+"i'm not a fan of the bot's emoji choices",0
+"the bot uses way too many emojis",0
+"i'm having a conversation with my friends using only emojis, the bot can't keep up",0
+"the bot's custom emojis are so cool",0
+"i'm impressed by the bot's ability to understand the nuances of emoji communication",0
+"the bot is a true emoji connoisseur",0
+"i'm learning about new emojis from the bot",0
+"the bot's emoji game is strong",0
+"i wish i could use custom emojis like the bot",0
+"bot, what's the latest news?",1
+"dash, can you give me a summary of today's headlines?",1
+"rainbowdash, what's going on in the world of sports?",1
+"<@905275907625852938>, what are the top stories in technology right now?",1
+"bot, what's the latest in entertainment news?",1
+"hey dash, what are the biggest political stories of the day?",1
+"rainbowdash, can you give me an update on the stock market?",1
+"bot, what are the most important business news stories today?",1
+"<@905275907625852938>, what's the latest scientific breakthrough?",1
+"bot, can you give me a rundown of the most recent global events?",1
+"the bot's news updates are very convenient",0
+"i'm not sure if i trust the bot as a reliable news source",0
+"i prefer getting my news from established media outlets, not a bot",0
+"the bot's news summaries are a good way to get a quick overview of the day's events",0
+"i was just discussing a news story with my friends, not the bot",0
+"the bot's news sources seem to be biased",0
+"i'm impressed by the bot's ability to curate relevant news stories",0
+"the bot is a great way to stay informed about what's happening in the world",0
+"i'm using the bot to get my daily news briefing",0
+"the bot's news feature is very well-implemented",0
+"bot, what's the weather like in paris?",1
+"dash, is it going to rain tomorrow?",1
+"rainbowdash, what's the temperature right now?",1
+"<@905275907625852938>, what's the wind speed and direction?",1
+"bot, what's the forecast for the next 5 days?",1
+"hey dash, what's the uv index today?",1
+"rainbowdash, what's the humidity level?",1
+"bot, what time is sunrise and sunset?",1
+"<@905275907625852938>, what's the air quality like?",1
+"bot, is there a weather warning in my area?",1
+"the bot's weather forecasts are surprisingly accurate",0
+"i'm not sure if the bot's weather data is up-to-date",0
+"i prefer using a dedicated weather app rather than a bot",0
+"the bot's weather information is a good way to get a quick check on the conditions",0
+"i was just talking to my friend about the weather, not the bot",0
+"the bot's weather icons are very cute",0
+"i'm impressed by the bot's ability to provide such detailed weather information",0
+"the bot is my personal meteorologist",0
+"i'm using the bot to help me plan my outdoor activities",0
+"the bot's weather feature is very useful and convenient",0
+"bot, let's play a guessing game",1
+"dash, i'm thinking of a number between 1 and 100",1
+"rainbowdash, can you guess the animal i'm thinking of?",1
+"<@905275907625852938>, let's play 20 questions",1
+"bot, can you guess the movie i'm thinking of?",1
+"hey dash, let's play 'never have i ever'",1
+"rainbowdash, can you guess the song i'm humming?",1
+"bot, let's play 'would you rather'",1
+"<@905275907625852938>, can you guess the celebrity i'm thinking of?",1
+"bot, let's play a game of 'two truths and a lie'",1
+"the bot is surprisingly good at guessing games",0
+"i'm not sure if the bot is playing fair",0
+"i'm playing a game with my friends, not the bot",0
+"the bot's guessing game is a fun way to pass the time",0
+"i'm trying to trick the bot with a really obscure answer",0
+"the bot's questions in 20 questions are very clever",0
+"i'm impressed by the bot's ability to play such a variety of games",0
+"the bot is a fun and challenging opponent",0
+"i'm having a blast playing games with the bot",0
+"the bot's guessing game is a great way to test my knowledge",0
+"bot, can you help me with a coding problem?",1
+"dash, what's the best way to learn python?",1
+"rainbowdash, can you help me debug my code?",1
+"<@905275907625852938>, what's the difference between a list and a tuple in python?",1
+"bot, can you write a simple 'hello world' program in java?",1
+"hey dash, what are some common data structures and algorithms?",1
+"rainbowdash, can you explain the concept of object-oriented programming?",1
+"bot, what are some good resources for learning web development?",1
+"<@905275907625852938>, what's the best way to contribute to open source projects?",1
+"bot, can you help me set up my development environment?",1
+"the bot's coding advice is very helpful",0
+"i'm not sure if the bot's code is correct",0
+"i prefer getting coding help from stack overflow rather than a bot",0
+"the bot's code snippets are a good starting point, but i need to adapt them to my specific needs",0
+"i was just discussing a coding problem with my team, not the bot",0
+"the bot is a great resource for quick coding questions and syntax lookups",0
+"i'm impressed by the bot's ability to understand and debug code",0
+"the bot has helped me become a better programmer",0
+"i'm using the bot as my personal coding tutor",0
+"the bot's coding challenges are a fun way to practice my skills",0

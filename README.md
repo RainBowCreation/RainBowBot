@@ -3,12 +3,15 @@
 ## features
 ### simple discord !set and !get command that stored in node-red flow.<key>
 ### create temporary voice channel
+### simple machine learning bot filter intent
 
 ## required
 
  ``node``, ``npm``
 
 simple ``node-red`` server
+
+``python``
 
 ## setup
 
@@ -121,6 +124,19 @@ import
 ]
 ```
 and simply ``Deploy``
+
+## setup bot filter
+
+``create python environmnet of your choices``
+ then
+
+```py -m pip install pandas Flask sklearn```
+
+you can edit and add datasets at ``assets/bot_training_data.csv``
+
+to run a filter api on port ``5000``
+
+```py filterApi.py```
 
 ## on npm server
 
