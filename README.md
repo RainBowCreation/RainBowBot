@@ -130,7 +130,7 @@ and simply ``Deploy``
 ``create python environmnet of your choices``
  then
 
-```py -m pip install pandas Flask sklearn```
+```py -m pip install pandas Flask sklearn joblib```
 
 you can edit and add datasets at ``assets/bot_training_data.csv``
 
