@@ -1,7 +1,7 @@
 // index.js (Your main bot file)
 
 // ... (your other requires like Client, GatewayIntentBits)
-const { Client, GatewayIntentBits, Partials } = require('discord.js');
+const { Client, GatewayIntentBits, Partials, ChannelType } = require('discord.js');
 require('dotenv').config();
 
 
@@ -81,46 +81,61 @@ client.on('messageCreate', async message => {
     }
 
     if (command === 'hello') {
-        // 1. Check if the user is in a voice channel
-        const voiceChannel = message.member.voice.channel;
-        if (!voiceChannel) {
-            return message.reply('You need to be in a voice channel before use this command!');
+        let voiceChannel;
+
+        // Check if an argument (channel ID) was provided
+        if (args.length > 0) {
+            const channelId = args[0];
+            try {
+                // Fetch the channel from the guild to ensure it's up-to-date
+                voiceChannel = await message.guild.channels.fetch(channelId);
+
+                // Check if the fetched channel exists and is a voice channel
+                if (!voiceChannel || voiceChannel.type !== ChannelType.GuildVoice) {
+                    return message.reply('The ID you provided is not a valid voice channel.');
+                }
+
+            } catch (error) {
+                // This catch block will trigger if the ID is completely invalid
+                console.error("Failed to fetch channel:", error);
+                return message.reply('I could not find a channel with that ID.');
+            }
+        } else {
+            // If no argument, use the original logic
+            voiceChannel = message.member.voice.channel;
+            if (!voiceChannel) {
+                return message.reply('You need to be in a voice channel or provide a channel ID to use this command!');
+            }
         }
 
-        // 2. Check for permissions to join and speak
+        // The rest of your logic remains the same, as it's already correct for v14
         const permissions = voiceChannel.permissionsFor(message.client.user);
         if (!permissions.has('CONNECT') || !permissions.has('SPEAK')) {
-            return message.reply('I need permissions to join and speak in your voice channel!');
+            return message.reply('I need permissions to join and speak in that voice channel!');
         }
 
         try {
-            // 3. Join the voice channel
             const connection = joinVoiceChannel({
                 channelId: voiceChannel.id,
                 guildId: voiceChannel.guild.id,
                 adapterCreator: voiceChannel.guild.voiceAdapterCreator,
             });
 
-            // 4. Create an audio player and resource
             const player = createAudioPlayer();
             const resource = createAudioResource(path.join(__dirname, 'audio/hello.mp3'));
 
-            // 5. Play the audio
             player.play(resource);
             connection.subscribe(player);
-            const freshMember = await voiceChannel.guild.members.fetch(message.member.id);
-            message.reply(`Saying hello to ${freshMember.displayName} at **${voiceChannel.name}**!`);
+            message.reply(`Joining **${voiceChannel.name}** to say hello!`);
 
-            // 6. Set up an event listener for when the audio finishes
             player.on(AudioPlayerStatus.Idle, () => {
                 console.log('Audio has finished playing, disconnecting.');
-                connection.destroy(); // Disconnect from the channel
+                connection.destroy();
             });
 
-            // (Optional) Add an error handler
             player.on('error', error => {
                 console.error(`Error playing audio: ${error.message}`);
-                connection.destroy(); // Disconnect on error
+                connection.destroy();
             });
 
         } catch (error) {
